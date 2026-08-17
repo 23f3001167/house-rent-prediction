@@ -1,0 +1,101 @@
+BHK,Size,Floor,Area Type,Area Locality,City,Furnishing Status,Tenant Preferred,Bathroom,Point of Contact
+2,850,Ground out of 2,Super Area,Andheri East,Mumbai,Semi-Furnished,Bachelors/Family,2,Contact Owner
+3,1500,1st out of 4,Carpet Area,Whitefield,Bangalore,Furnished,Bachelors/Family,3,Contact Agent
+1,550,Ground out of 1,Super Area,Kothrud,Pune,Unfurnished,Bachelors/Family,1,Contact Owner
+2,1200,2nd out of 3,Carpet Area,T Nagar,Chennai,Furnished,Family,2,Contact Agent
+3,1800,Ground out of 2,Super Area,Dwarka,Delhi,Semi-Furnished,Bachelors/Family,2,Contact Owner
+1,450,Ground out of 1,Carpet Area,Banjara Hills,Hyderabad,Unfurnished,Bachelors/Family,1,Contact Agent
+2,750,1st out of 2,Super Area,Salt Lake,Kolkata,Semi-Furnished,Bachelors/Family,2,Contact Owner
+2,800,Ground out of 3,Carpet Area,Vastrapur,Ahmedabad,Furnished,Bachelors/Family,1,Contact Owner
+3,1300,2nd out of 4,Super Area,Koramangala,Bangalore,Furnished,Family,3,Contact Agent
+1,520,Ground out of 1,Carpet Area,Andheri West,Mumbai,Semi-Furnished,Bachelors/Family,1,Contact Owner
+2,900,1st out of 3,Super Area,Hinjewadi,Pune,Unfurnished,Bachelors/Family,2,Contact Owner
+3,1400,Ground out of 2,Carpet Area,OMR,Chennai,Furnished,Bachelors/Family,2,Contact Agent
+2,1000,2nd out of 4,Super Area,Rajouri Garden,Delhi,Semi-Furnished,Family,2,Contact Owner
+1,480,Ground out of 1,Carpet Area,Gachibowli,Hyderabad,Unfurnished,Bachelors/Family,1,Contact Owner
+2,780,1st out of 2,Super Area,Rajarhat,Kolkata,Furnished,Bachelors/Family,2,Contact Agent
+3,1600,Ground out of 3,Carpet Area,Whitefield,Bangalore,Furnished,Family,3,Contact Owner
+2,850,2nd out of 3,Super Area,Bandra West,Mumbai,Semi-Furnished,Bachelors/Family,2,Contact Agent
+1,600,Ground out of 1,Carpet Area,Kothrud,Pune,Unfurnished,Bachelors/Family,1,Contact Owner
+2,1100,1st out of 2,Super Area,Adyar,Chennai,Furnished,Bachelors/Family,2,Contact Owner
+3,1500,Ground out of 4,Carpet Area,Janakpuri,Delhi,Furnished,Family,2,Contact Agent
+2,950,2nd out of 3,Super Area,Hitech City,Hyderabad,Semi-Furnished,Bachelors/Family,2,Contact Owner
+1,500,Ground out of 1,Carpet Area,New Town,Kolkata,Unfurnished,Bachelors/Family,1,Contact Owner
+2,820,1st out of 2,Super Area,Satellite,Ahmedabad,Furnished,Bachelors/Family,2,Contact Agent
+3,1250,Ground out of 3,Carpet Area,HSR Layout,Bangalore,Furnished,Family,2,Contact Owner
+2,780,2nd out of 4,Super Area,Thane,Mumbai,Semi-Furnished,Bachelors/Family,2,Contact Owner
+1,550,Ground out of 1,Carpet Area,Viman Nagar,Pune,Unfurnished,Bachelors/Family,1,Contact Agent
+3,1350,1st out of 2,Super Area,Anna Nagar,Chennai,Furnished,Family,3,Contact Owner
+2,1050,Ground out of 3,Carpet Area,Saket,Delhi,Semi-Furnished,Bachelors/Family,2,Contact Owner
+2,720,2nd out of 3,Super Area,Kondapur,Hyderabad,Furnished,Bachelors/Family,2,Contact Agent
+1,480,Ground out of 1,Carpet Area,Howrah,Kolkata,Unfurnished,Bachelors/Family,1,Contact Owner
+3,1400,1st out of 4,Super Area,Baner,Pune,Furnished,Family,3,Contact Owner
+2,900,Ground out of 2,Carpet Area,Indiranagar,Bangalore,Furnished,Bachelors/Family,2,Contact Agent
+3,1200,2nd out of 3,Super Area,Juhu,Mumbai,Semi-Furnished,Family,2,Contact Owner
+2,800,1st out of 2,Carpet Area,Madhapur,Hyderabad,Unfurnished,Bachelors/Family,2,Contact Owner
+1,530,Ground out of 1,Super Area,Dadar,Mumbai,Furnished,Bachelors/Family,1,Contact Agent
+2,760,2nd out of 4,Carpet Area,Kharadi,Pune,Semi-Furnished,Bachelors/Family,2,Contact Owner
+3,1280,Ground out of 3,Super Area,Porur,Chennai,Furnished,Family,3,Contact Agent
+2,1080,1st out of 2,Carpet Area,Rohini,Delhi,Furnished,Bachelors/Family,2,Contact Owner
+1,500,Ground out of 1,Super Area,Jubilee Hills,Hyderabad,Unfurnished,Bachelors/Family,1,Contact Owner
+2,850,2nd out of 3,Carpet Area,Alipore,Kolkata,Semi-Furnished,Bachelors/Family,2,Contact Agent
+3,1450,Ground out of 4,Super Area,MG Road,Bangalore,Furnished,Family,3,Contact Owner
+2,950,1st out of 2,Carpet Area,Powai,Mumbai,Furnished,Bachelors/Family,2,Contact Owner
+1,580,Ground out of 1,Super Area,Aundh,Pune,Semi-Furnished,Bachelors/Family,1,Contact Agent
+3,1300,2nd out of 3,Carpet Area,Jayanagar,Bangalore,Furnished,Family,3,Contact Owner
+2,820,Ground out of 2,Super Area,Mylapore,Chennai,Unfurnished,Bachelors/Family,2,Contact Owner
+2,760,1st out of 2,Carpet Area,Navrangpura,Ahmedabad,Furnished,Bachelors/Family,2,Contact Agent
+3,1200,Ground out of 3,Super Area,Vasant Kunj,Delhi,Semi-Furnished,Family,2,Contact Owner
+2,980,2nd out of 4,Carpet Area,Whitefield,Bangalore,Furnished,Bachelors/Family,2,Contact Owner
+1,500,Ground out of 1,Super Area,Thane,Mumbai,Unfurnished,Bachelors/Family,1,Contact Agent
+3,1500,1st out of 2,Carpet Area,Manikonda,Hyderabad,Furnished,Family,3,Contact Owner
+2,850,Ground out of 3,Super Area,Kothrud,Pune,Semi-Furnished,Bachelors/Family,2,Contact Owner
+3,1350,2nd out of 4,Carpet Area,Adyar,Chennai,Furnished,Bachelors/Family,2,Contact Agent
+2,1100,Ground out of 2,Super Area,Greater Kailash,Delhi,Furnished,Family,2,Contact Owner
+1,520,1st out of 1,Carpet Area,Madhapur,Hyderabad,Unfurnished,Bachelors/Family,1,Contact Owner
+2,780,Ground out of 3,Super Area,New Town,Kolkata,Semi-Furnished,Bachelors/Family,2,Contact Agent
+3,1400,2nd out of 2,Carpet Area,Bodakdev,Ahmedabad,Furnished,Family,3,Contact Owner
+2,920,1st out of 3,Super Area,Electronic City,Bangalore,Furnished,Bachelors/Family,2,Contact Owner
+3,1600,Ground out of 4,Carpet Area,Worli,Mumbai,Furnished,Family,3,Contact Agent
+1,580,2nd out of 2,Super Area,Viman Nagar,Pune,Semi-Furnished,Bachelors/Family,1,Contact Owner
+2,880,Ground out of 1,Carpet Area,OMR,Chennai,Unfurnished,Bachelors/Family,2,Contact Owner
+3,1450,1st out of 3,Super Area,Whitefield,Bangalore,Furnished,Bachelors/Family,3,Contact Agent
+2,980,2nd out of 4,Carpet Area,Saket,Delhi,Furnished,Family,2,Contact Owner
+1,550,Ground out of 1,Super Area,Marathahalli,Bangalore,Unfurnished,Bachelors/Family,1,Contact Owner
+3,1300,1st out of 2,Carpet Area,Juhu,Mumbai,Furnished,Family,3,Contact Agent
+2,850,Ground out of 3,Super Area,Garia,Kolkata,Semi-Furnished,Bachelors/Family,2,Contact Owner
+3,1200,2nd out of 4,Carpet Area,Baner,Pune,Furnished,Bachelors/Family,2,Contact Owner
+2,920,Ground out of 2,Super Area,T Nagar,Chennai,Furnished,Family,2,Contact Agent
+3,1500,1st out of 3,Carpet Area,Dwarka,Delhi,Furnished,Bachelors/Family,3,Contact Owner
+1,500,Ground out of 1,Super Area,Gachibowli,Hyderabad,Unfurnished,Bachelors/Family,1,Contact Owner
+2,780,2nd out of 2,Carpet Area,Rajarhat,Kolkata,Semi-Furnished,Bachelors/Family,2,Contact Agent
+3,1350,Ground out of 4,Super Area,Koramangala,Bangalore,Furnished,Family,3,Contact Owner
+2,880,1st out of 2,Carpet Area,Andheri East,Mumbai,Furnished,Bachelors/Family,2,Contact Owner
+3,1250,2nd out of 3,Super Area,Whitefield,Bangalore,Furnished,Family,2,Contact Agent
+2,950,Ground out of 2,Carpet Area,Vastrapur,Ahmedabad,Semi-Furnished,Bachelors/Family,2,Contact Owner
+3,1400,1st out of 4,Super Area,Porur,Chennai,Furnished,Bachelors/Family,3,Contact Owner
+2,820,Ground out of 1,Carpet Area,Indiranagar,Bangalore,Unfurnished,Bachelors/Family,2,Contact Agent
+3,1300,2nd out of 3,Super Area,Vasant Kunj,Delhi,Furnished,Family,2,Contact Owner
+1,550,Ground out of 1,Carpet Area,Hitech City,Hyderabad,Semi-Furnished,Bachelors/Family,1,Contact Owner
+2,780,1st out of 2,Super Area,Salt Lake,Kolkata,Furnished,Bachelors/Family,2,Contact Agent
+3,1450,Ground out of 4,Carpet Area,Bandra West,Mumbai,Furnished,Family,3,Contact Owner
+2,920,2nd out of 3,Super Area,Kothrud,Pune,Furnished,Bachelors/Family,2,Contact Owner
+3,1350,Ground out of 2,Carpet Area,Adyar,Chennai,Furnished,Family,3,Contact Agent
+2,1050,1st out of 4,Super Area,Janakpuri,Delhi,Semi-Furnished,Bachelors/Family,2,Contact Owner
+1,580,Ground out of 1,Carpet Area,Madhapur,Hyderabad,Unfurnished,Bachelors/Family,1,Contact Owner
+3,1500,2nd out of 3,Super Area,Whitefield,Bangalore,Furnished,Bachelors/Family,3,Contact Agent
+2,880,Ground out of 2,Carpet Area,Juhu,Mumbai,Furnished,Family,2,Contact Owner
+3,1250,1st out of 2,Super Area,Viman Nagar,Pune,Furnished,Bachelors/Family,2,Contact Owner
+2,920,Ground out of 3,Carpet Area,Anna Nagar,Chennai,Semi-Furnished,Bachelors/Family,2,Contact Agent
+3,1400,2nd out of 4,Super Area,Greater Kailash,Delhi,Furnished,Family,3,Contact Owner
+2,820,Ground out of 1,Carpet Area,Manikonda,Hyderabad,Furnished,Bachelors/Family,2,Contact Owner
+3,1350,1st out of 3,Super Area,Koramangala,Bangalore,Furnished,Bachelors/Family,3,Contact Agent
+2,950,Ground out of 2,Carpet Area,Thane,Mumbai,Semi-Furnished,Family,2,Contact Owner
+3,1450,2nd out of 4,Super Area,Baner,Pune,Furnished,Bachelors/Family,3,Contact Owner
+2,880,Ground out of 1,Carpet Area,OMR,Chennai,Unfurnished,Bachelors/Family,2,Contact Agent
+3,1500,1st out of 2,Super Area,Vasant Vihar,Delhi,Furnished,Family,3,Contact Owner
+2,980,Ground out of 3,Carpet Area,Whitefield,Bangalore,Furnished,Bachelors/Family,2,Contact Owner
+3,1400,2nd out of 3,Super Area,Worli,Mumbai,Furnished,Family,3,Contact Agent
+2,920,Ground out of 2,Carpet Area,Kharadi,Pune,Semi-Furnished,Bachelors/Family,2,Contact Owner
+3,1350,1st out of 4,Super Area,Mylapore,Chennai,Furnished,Family,2,Contact Owner
+2,1050,Ground out of 1,Carpet Area,Rajouri Garden,Delhi,Furnished,Bachelors/Family,2,Contact Agent

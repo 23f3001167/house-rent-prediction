@@ -1,0 +1,28 @@
+MODEL EVALUATION METRICS
+==================================================
+
+REGRESSION METRICS
+------------------------------
+MAE (Mean Absolute Error):                Rs.13,000.30
+RMSE (Root Mean Squared Error):           Rs.49,330.44
+R² Score:                                 0.3894
+MAPE (Mean Absolute Percentage Error):    47.73%
+Explained Variance Score:                 0.3902
+Max Error:                                Rs.805,626.10
+Median Absolute Error:                    Rs.3,928.58
+
+CLASSIFICATION METRICS (Binned Rent)
+------------------------------
+Accuracy (macro):                         0.9716
+Precision (macro):                        0.2656
+Precision (weighted):                     0.9817
+Recall (macro):                           0.2789
+Recall (weighted):                        0.9716
+F1-Score (macro):                         0.2714
+F1-Score (weighted):                      0.9765
+
+CROSS-VALIDATION SCORES
+------------------------------
+CV R² Scores: [0.83187425 0.38982492 0.55172869 0.75249627 0.77583812]
+Mean CV R²: 0.6604
+Std CV R²: 0.1651

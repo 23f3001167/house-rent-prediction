@@ -1,0 +1,1935 @@
+feature,importance
+Bathroom,0.3090132744704721
+City_Mumbai,0.23580834553202681
+Size,0.07764498440001298
+Size_Squared,0.07330255288672057
+Log_Size,0.06785949284781838
+Size_per_BHK,0.03355627734102404
+Total_Floors,0.017302439130093116
+Floor_Ratio,0.01657698255804804
+Point of Contact_Contact Agent,0.014306340778397375
+Floor_Number,0.013996867344615657
+Point of Contact_Contact Owner,0.01240567062612568
+Area Locality_Defence Colony,0.007034338155736173
+Area Locality_Bandra West,0.00546284975607052
+City_Delhi,0.00493919116941467
+BHK,0.0046032336529112814
+"Area Locality_Avenue S, Santoshpur",0.0043772172253472175
+Area Locality_Greater Kailash 1,0.004323256908204697
+Furnishing Status_Furnished,0.004258800125805546
+Room_Bathroom_Ratio,0.003957281811115304
+Furnishing Status_Unfurnished,0.003902254974329795
+Tenant Preferred_Bachelors,0.002582331235816825
+"Area Locality_Safdarjung Development Area, Hauz Khas",0.0025442872327363537
+Area Locality_Safdarjung Enclave,0.0024349517805306474
+Area Locality_Lal Darwaza,0.0023375028241817844
+Area Type_Carpet Area,0.002226827331668192
+City_Hyderabad,0.0021995204916334227
+"Area Locality_Benchmark Solus, Waterfield Road",0.002118127699398809
+Area Type_Super Area,0.001977004846282608
+Tenant Preferred_Bachelors/Family,0.0019734867943666983
+Furnishing Status_Semi-Furnished,0.0018574695191306044
+Area Locality_Mylapore,0.0017427809147247378
+Area Locality_Panchsheel Park,0.0016305638028756369
+Tenant Preferred_Family,0.0015117232383040267
+"Area Locality_Auris Serenity, Malad West",0.001413910735369939
+"Area Locality_Sabari Palm View, Chembur",0.0013748503881079936
+Area Locality_Khar West,0.001360506294150371
+Area Locality_Shanti Niketan,0.0013321379287812604
+Area Locality_Raja Annamalai Puram,0.0012736134270542262
+Area Locality_T Nagar,0.0012720569129026037
+Area Locality_Union Park,0.0012568837789089912
+Area Locality_Malabar Hill,0.0012279258455382268
+Area Locality_parivar safalya chs,0.0011302567273423307
+City_Chennai,0.0010638613793536383
+Area Locality_Cuffe Parade,0.0010285500443418497
+"Area Locality_Maharani Bagh, New Friends Colony",0.0009171351796504379
+Area Locality_Nungambakkam,0.0009020407099833746
+Area Locality_Rajajinagar,0.0008713609916983074
+"Area Locality_Violette Valley, Bandra West",0.0007532381954884433
+"Area Locality_Lodha The Park, Worli",0.0006417141822117748
+"Area Locality_Marathon Next Gen Era, Lower Parel",0.0006193030226192522
+Area Locality_Vasant Vihar,0.0006137540246706103
+Area Locality_Nagarabhavi BDA complex,0.0005902627261167091
+"Area Locality_Badrinath Tower, Amit Nagar",0.0005549017998901341
+Area Locality_Vasant Kunj,0.000541158336291385
+Area Locality_South Extension 1,0.0005378312960903559
+Area Locality_Chembur,0.0005377928673394523
+City_Bangalore,0.0005090732259642634
+"Area Locality_Hill Road, Bandra West",0.0004862023354319022
+Area Locality_Santacruz West,0.0004818517290365621
+"Area Locality_Adyar, Sardar Patel Road",0.00047973483267355456
+"Area Locality_Jangpura Extension, Jangpura",0.00047696822930356396
+Area Locality_Hebbal,0.00045059783456346056
+Area Locality_Bilal Nagar-Sagayapura,0.000445053942822729
+Area Locality_JVPD Scheme,0.00043911428355274666
+"Area Locality_Poes Garden, Teynampet",0.00043350627506282647
+"Area Locality_Kapaleeswarar Nagar, Neelankarai, E Coast Road",0.0004088951851971912
+Area Locality_Breach Candy,0.0004042278928815973
+"Area Locality_AGCR Enclave, Anand Vihar",0.0004002072021616948
+Area Locality_Film City,0.00039596494533306216
+"Area Locality_Richmond Town, Richmond Town",0.000382245099642582
+Area Locality_Alwarpet,0.0003791891587883896
+Is_Ground,0.000363925636280363
+Area Locality_Khar,0.00035984268765549567
+City_Kolkata,0.0003550531309416791
+"Area Locality_Beach Towers, Prabhadevi",0.00035504171074284956
+"Area Locality_Hiranandani Atlantis, Hiranandani Gardens",0.00034422176823061597
+"Area Locality_The Primordial House, Kemps Corner",0.000336788414613442
+"Area Locality_Raheja Imperia, Worli",0.00033178190536689383
+"Area Locality_Lodha Kiara, Worli Hill",0.0003300686769111543
+"Area Locality_Sarakki Nagar, J P Nagar",0.0003270971064996729
+"Area Locality_Shivalik, Malviya Nagar",0.0003197707233288809
+"Area Locality_Lovedale Residences, Malad West",0.00031954635760788946
+Area Locality_Gachibowli,0.00031900320965012505
+Area Locality_Deepa Appartment Turnbulls,0.0003184983994143711
+"Area Locality_Chaitanya Towers, Prabhadevi",0.00031718059484856854
+Area Locality_Koramangala Block 3,0.00031195176316919265
+Area Locality_7 Bungalows Andheri West,0.0002994039496930653
+Area Locality_Ranjith Road,0.0002804758646288876
+"Area Locality_Queens Palace, Bandra West",0.0002725824646952573
+Area Locality_Jubilee Hills,0.0002717792158121365
+Area Locality_Thiruvanmiyur,0.0002579769823295084
+Area Locality_Seven Bungalows,0.0002515179194761647
+Area Locality_Sarvodaya Enclave,0.00025114618240545727
+"Area Locality_Dollars Colony-Rmv Extension Stage 2, RMV Extension Stage 2",0.00025088198887652076
+Area Locality_Madipakkam,0.00024962592204429596
+Area Locality_Lokhandwala Complex,0.00024231126811464457
+Area Locality_Rajouri Garden,0.00024164675719348712
+"Area Locality_Lodha NCP Commercial , Wadala",0.0002415462760195577
+"Area Locality_Ekta Meadows, Borivali East",0.0002285372923079512
+Area Locality_Walkeshwar,0.00022244128990072003
+Area Locality_Hsr Layout,0.00021841560262489675
+Area Locality_Kuntloor,0.0002163934090160341
+Area Locality_Pali Hill,0.00021577140618871408
+Area Locality_Andheri West,0.00021565566058419754
+Area Locality_Juhu,0.00021333234118306704
+Area Locality_Lajpat Nagar 3,0.00020392643295933565
+"Area Locality_Lodha Bellissimo, Mahalakshmi",0.00020392442014400682
+"Area Locality_L Nagpal Ruby, Turner Road",0.00020049522460163162
+Area Locality_Greater Kailash 2,0.00019972943180394996
+"Area Locality_Raheja Exotica Sorento, Madh",0.0001963678528167379
+"Area Locality_Ajmera Bhakti Park, Bhakti Park",0.0001922767309590102
+Area Locality_Saket,0.00019033748064528313
+Area Locality_Vile Parle East,0.00017953868768566755
+"Area Locality_L&T Emerald Isle, Powai",0.00017143527182061859
+"Area Locality_R.A Puram, Mandaiveli",0.00015983580902415351
+"Area Locality_Challenger Tower, Thakur Village, Kandivali East",0.0001572807754897572
+"Area Locality_Laksharia Tower, Andheri West",0.0001562478506297673
+"Area Locality_Raj Grandeur, Powai",0.00015291532726030923
+Area Locality_Hindu Colony,0.00014287947170329152
+Area Locality_Koramangala Block 1,0.00014253358990033423
+"Area Locality_Crescent Bay Callisto, Parel",0.0001413745810300016
+"Area Locality_Hiranandani Castle Rock, Hiranandani Gardens",0.00013955566808401755
+"Area Locality_Saraswati Sadan, Parel",0.00013904338543516148
+"Area Locality_Nakoda Heights, Nalasopara",0.00013488584562137444
+Area Locality_Malviya Nagar,0.00013296575120726677
+"Area Locality_Thakur Jewel, Thakur Village, Kandivali East",0.00013195042363201958
+"Area Locality_Pushpanjali, Anand Vihar",0.00013095135503141147
+"Area Locality_Man Opus, Mira Road",0.00013021771780028066
+Area Locality_shivsagar,0.0001276935303647308
+"Area Locality_Aristo Pearl Residency, Prabhadevi",0.00012621232011785733
+"Area Locality_Adani Western Heights, Andheri West",0.00012403471322945426
+"Area Locality_Sheth Beaumonte, Sion Koliwada",0.00012390902266229813
+Area Locality_Chhattarpur Enclave,0.0001236300415313728
+Area Locality_Opera House,0.00012239349147718728
+"Area Locality_diamond garden, Chembur",0.00012206484531507162
+Area Locality_MRC Nagar,0.00012203289387121232
+Area Locality_Goregaon West,0.00012100824557394194
+"Area Locality_Vittal Rao Nagar, Hitech City",0.00012025125082854101
+Area Locality_Waterfield Road,0.00011926680096251381
+"Area Locality_Dr Babasaheb Ambedkar Road, Mumbai",0.00011802869835909104
+"Area Locality_Smoky Hill Apartment, Bandra West",0.00011747990616069859
+"Area Locality_Auris Serenity, Kanch Pada",0.00011503808461152673
+"Area Locality_Lodha New Cuffe Parade, Wadala",0.00011041237741405944
+Area Locality_Lavelle Road,0.00010815856420233168
+Area Locality_Gopalapuram,0.00010578327231721545
+"Area Locality_Kohinoor City Phase II, Holly Cross Church Chowk",0.00010562128127402169
+Area Locality_Prabhadevi,0.00010514101911677105
+"Area Locality_Bhairav Residency, Mira Road",0.00010453219542779421
+"Area Locality_Egmore, PH Road",0.00010345086385690638
+"Area Locality_Banjara Hills, NH 9",0.00010339175209299263
+"Area Locality_simla house at nepeasea road, Napean Sea Road",0.00010190680009120451
+"Area Locality_Chetpet, PH Road",0.00010164848367992733
+Area Locality_Old Mahabalipuram Road,0.00010120272549246811
+"Area Locality_Ambrosia Apartment, Borivali East",0.0001006803567902704
+Area Locality_new panvel,9.985072562757287e-05
+Area Locality_Perry Rd,9.83725055305107e-05
+"Area Locality_Mahindra Vivante, Chakala",9.829345539051543e-05
+Area Locality_Worli Sea Face,9.778258783558692e-05
+"Area Locality_Windsor Grande Residences, Andheri West",9.750037768335422e-05
+"Area Locality_Lodha New Cuffe Parade, Wadala East",9.716812378724497e-05
+"Area Locality_Rajesh Raj Classic, Yari Road",9.459873490122025e-05
+Area Locality_Teynampet,9.231971100039824e-05
+"Area Locality_Ashford Casa Grande, Lower Parel",9.06258794059692e-05
+"Area Locality_Kanakia Paris, Bandra Kurla Complex",9.045468485152682e-05
+Area Locality_Sion East,9.026803290919449e-05
+Area Locality_Koramangala,9.008732147140446e-05
+"Area Locality_Hiranandani Verona Co op Housing Society Ltd, Powai",8.91807966588877e-05
+Area Locality_Mumbai Central,8.520740649732018e-05
+Area Locality_New Friends Colony,8.359168973375361e-05
+"Area Locality_Hiranandani Regent Hill, Hiranandani Gardens",8.270894610959676e-05
+Area Locality_Carter Road,8.265436785596135e-05
+"Area Locality_Sunflower Apartment, Bandra West",8.028211664195732e-05
+"Area Locality_Ekta Trinity, Santacruz West",7.992930563174531e-05
+"Area Locality_Hormany nest Apartments gandipet Apartmentge hyderabad, Hyderabad",7.979764174041181e-05
+Area Locality_Frazer Town,7.949312642478861e-05
+Area Locality_Indira Nagar,7.943087102869691e-05
+"Area Locality_Lodha New Cuffe Parade, Bhakti Park",7.936410892541229e-05
+"Area Locality_Kakateeya Nagar, Secunderabad",7.868337713132983e-05
+"Area Locality_Purushottam Towers, Dadar West",7.863992269912452e-05
+Area Locality_Chandivali,7.786149536625193e-05
+Area Locality_2nd Main Road,7.69773812584574e-05
+Area Locality_Santacruz East,7.570274059135978e-05
+Area Locality_Dadar East,7.557805676248963e-05
+Area Locality_Kakatiya Hills Madhapur,7.47090820896521e-05
+"Area Locality_Vedic Village, Rajarhat",7.410795354687332e-05
+"Area Locality_Island City Centre, Dadar TT Circle",7.37366153100996e-05
+Area Locality_Shivaji Park,7.326149551472161e-05
+"Area Locality_Prem Nagar, Patel Nagar",7.158020008829133e-05
+"Area Locality_Shreenath nagar, Morya Nagar",7.149849014287075e-05
+Area Locality_Kattedan Rd,6.999836036220248e-05
+Area Locality_Best Nagar Goregaon West,6.93843366806612e-05
+Area Locality_Kamla Nagar,6.886856230730874e-05
+Area Locality_Salt Lake City Sector 3,6.868527484057326e-05
+Area Locality_CIT Nagar,6.820724316636961e-05
+Area Locality_Lajpat Nagar 1,6.805119538878718e-05
+Area Locality_Borivali East,6.701530222293656e-05
+Area Locality_in Sion,6.682335896839919e-05
+"Area Locality_Usha Nagar Society, Bhandup West",6.48577612464067e-05
+"Area Locality_Pali Hill Apartment, Pali Hill",6.482044512351336e-05
+"Area Locality_Salvation CHS, Dadar West",6.43033973873926e-05
+"Area Locality_Benzer Tower, Thakur Complex",6.372393134077025e-05
+Area Locality_Lower Parel,6.349324957597298e-05
+"Area Locality_Godrej The Trees, Vikhroli East",6.237009700198625e-05
+"Area Locality_Sumit Greendale, Chikhal Dongari",6.22411803593072e-05
+Area Locality_Anand niwas,6.081967563771678e-05
+Area Locality_Navi Mumbai-Khargar-Panvel,6.011674182513648e-05
+Area Locality_Madhapur,5.984819583859545e-05
+Area Locality_Vidyaranyapura,5.982437695738126e-05
+Area Locality_Model Town,5.9765128995921815e-05
+Area Locality_Lajpat Nagar,5.8833143409890893e-05
+"Area Locality_Lodha Azzuro , Parel",5.865602171428062e-05
+"Area Locality_Deep Heights, Nalasopara",5.8604408593943676e-05
+"Area Locality_Ashok tower, Parel",5.735017059915432e-05
+"Area Locality_Vikram Vihar, Lajpat Nagar",5.69326470368281e-05
+Area Locality_Ballygunge,5.6370361335426184e-05
+"Area Locality_Jaya Nagar Block 8, Jayanagar",5.633492324706638e-05
+"Area Locality_7 Bungalow, Seven Bungalows",5.6128390188169225e-05
+"Area Locality_Adyar, Thiruvanmiyur, Chennai",5.585427631811976e-05
+Area Locality_Grant Road,5.54337682900859e-05
+Area Locality_Nandanam Extension,5.514140628784589e-05
+Area Locality_Ghatkopar East,5.454914731384609e-05
+Area Locality_Azad Nagar Colaba,5.393885373538167e-05
+"Area Locality_Hiranandani Castle Rock, Powai",5.380581085569474e-05
+"Area Locality_Trump Tower, Worli",5.365044073840252e-05
+"Area Locality_Bhel Township- Malleshwaram, Malleshwaram",5.324917221947541e-05
+"Area Locality_Magnum Tower CHS, Lokhandwala Complex",5.2874423301600487e-05
+Area Locality_Velachery,5.23445787103279e-05
+"Area Locality_Karkardooma, Anand Vihar",5.2223151183966955e-05
+Area Locality_kst chattarpur Apartments,5.148011213943757e-05
+"Area Locality_Platinum Prive, Andheri West",5.1442389137145094e-05
+Area Locality_Ashok Nagar,5.1123905905719775e-05
+"Area Locality_Transcon Triumph, Lokhandwala Complex",5.1007847630512046e-05
+Area Locality_Sethi floor nihal vihar,4.994962902370782e-05
+"Area Locality_Kukatpally, NH 9",4.94264238532553e-05
+"Area Locality_Band Stand, Bandra Band Stand",4.902385168268556e-05
+"Area Locality_Amar Colony, Lajpat Nagar",4.749540956086722e-05
+"Area Locality_Ekta Legranz, Chembur",4.7430047021078415e-05
+Area Locality_Mira Road,4.733027433394871e-05
+Area Locality_New Town Action Area 1,4.7310821041812675e-05
+Area Locality_Salt Lake City,4.6999500550334913e-05
+Area Locality_Shalimar bagh,4.688610917759148e-05
+"Area Locality_Valasaravakkam, Arcot Road",4.6347875345998426e-05
+Area Locality_Agripada,4.614317099288111e-05
+Area Locality_Pallavaram,4.573457174670031e-05
+Area Locality_Dhobi Ghat- Rajajinagar,4.535812176615986e-05
+Area Locality_Juhu Tara,4.4540715016308135e-05
+"Area Locality_Sundar Nagar, Kalina",4.370678301298036e-05
+Area Locality_Chittaranjan Park Block B,4.334554587459408e-05
+"Area Locality_Dosti Flamingo, Sewri",4.301569131888363e-05
+"Area Locality_Kamaraj Nagar-Thiruvanmiyur, E Coast Road",4.2953167493915866e-05
+Area Locality_Guttahalli,4.2829369039578084e-05
+"Area Locality_Oberoi Esquire, Goregaon East",4.273900015594755e-05
+Area Locality_Ghatkopar,4.261012049959134e-05
+"Area Locality_Oberoi Splendor Grande, Agarkar Chowk",4.204687221664285e-05
+Area Locality_Besant Nagar,4.161760913900916e-05
+"Area Locality_Atur Park, Chembur",4.152914205105731e-05
+"Area Locality_Gowrivakkam, Sembakkam",4.075511158026576e-05
+Area Locality_Mahim West,4.0153121803522794e-05
+Area Locality_Greater Kailash,3.977768164828501e-05
+Area Locality_Paschim Vihar,3.975924794793322e-05
+Area Locality_Sholinganallur,3.96675301812253e-05
+"Area Locality_Chromepet, GST Road",3.9594643318323424e-05
+"Area Locality_diamond garden, Chembur East",3.846940626943099e-05
+"Area Locality_MLA Colony, Banjara Hills",3.845719241530095e-05
+Area Locality_CA 150 sector 1 saltlake,3.840390089400852e-05
+"Area Locality_Alta Monte, Pathanwadi",3.830586333451729e-05
+Area Locality_Janakpuri,3.80258817749695e-05
+"Area Locality_Samarth Garden, Bhandup West",3.7403271432552535e-05
+Area Locality_Chhattarpur,3.7354466977095835e-05
+Area Locality_East Of Kailash,3.6859612661229326e-05
+"Area Locality_Sai Palace Apartment, Vile Parle West",3.6642242022316385e-05
+Area Locality_Nalasopara West,3.649746674270765e-05
+"Area Locality_Flora Heights, Andheri West",3.649165913133257e-05
+Area Locality_Powai,3.5909478171456455e-05
+"Area Locality_Vijaya Bank Colony -Bilekahalli, Bilekahalli",3.5798040592412276e-05
+Area Locality_Anna Nagar,3.487876994353351e-05
+"Area Locality_Utkarsh CHS, Prabhadevi",3.4006859678666e-05
+Area Locality_Vile Parle West,3.358955003828957e-05
+"Area Locality_Aminjikarai, PH Road",3.339301576674651e-05
+Area Locality_Central Avenue Road,3.3204277961314673e-05
+Area Locality_Kodambakkam,3.29611784284661e-05
+"Area Locality_Lodha Marquise, Worli",3.2617300187511075e-05
+Area Locality_Laxmi Nagar,3.247861202653601e-05
+"Area Locality_Unity the Amaryllis, Karol Bagh",3.2153979429858284e-05
+Area Locality_Hitech City,3.195257724280725e-05
+Area Locality_Abiramapuram,3.1749427032042306e-05
+"Area Locality_Kanakia Hollywood, Sai Nagar",3.161988795304793e-05
+Area Locality_Nizampet,3.14714790459955e-05
+Area Locality_Annanagar west,3.1262651893895364e-05
+Area Locality_Mira Road East,3.1151719245017474e-05
+Area Locality_Worli,3.1100150198623426e-05
+Area Locality_KK Nagar,3.108946598884766e-05
+"Area Locality_Rustomjee Central Park, Chakala",3.047690969451171e-05
+Area Locality_Old Airport Road,3.0247338907486137e-05
+Area Locality_Vadapalani,3.018932212838621e-05
+Area Locality_Pitampura,2.9983301899960964e-05
+Area Locality_Gulmohar Road,2.985728242034545e-05
+Area Locality_Basaveshvara Nagar,2.970000798854287e-05
+Area Locality_Delhi estate Apartment,2.952667103889022e-05
+"Area Locality_TATA Falcon Crest, Parel",2.9236464754643227e-05
+Area Locality_Mandaiveli,2.923164781931315e-05
+"Area Locality_holy complex ,Mira Road, Mumbai",2.8272568347228682e-05
+Area Locality_Thane-Kalyan-Dombivli,2.8235961275471654e-05
+Area Locality_whitefield,2.7791565138377178e-05
+"Area Locality_Nahar Amrit Shakti powai, Chandivali",2.746441853678397e-05
+"Area Locality_Kailash Colony, Greater Kailash",2.71171802988246e-05
+"Area Locality_Sapphire Heights, Lokhandwala Twp",2.6944153319437212e-05
+Area Locality_Vasant Kunj Sector B,2.6781710425998706e-05
+"Area Locality_Sakher Bazar, Purba Barisha",2.6573450478312467e-05
+Area Locality_Raj Bhawan Road,2.6470461344661098e-05
+"Area Locality_Kailash hills, East Of Kailash",2.6387431371562453e-05
+"Area Locality_Dheeraj Insignia Apartment, Bandra Kurla Complex",2.637145127997674e-05
+Area Locality_Mount Mary,2.6323295448062793e-05
+Area Locality_Hyderguda,2.6218219467177754e-05
+"Area Locality_Manavsthal, Andheri East",2.582425385102869e-05
+"Area Locality_Ishwardas Bhuvan CHS, Kandivali East",2.5508344179591776e-05
+"Area Locality_Kalasipalyam, Kalasipalyam",2.549321324564187e-05
+Area Locality_Salt Lake City Sector 2,2.5033210625709706e-05
+Area Locality_sunanda circal,2.5001942791467278e-05
+"Area Locality_Prathamesh Heritage, Beverly Park",2.487008764689296e-05
+Area Locality_Yelahanka,2.4538465528815117e-05
+Area Locality_South,2.45246191042419e-05
+"Area Locality_Sugee Sadan, Dadar West",2.4480278079919344e-05
+Area Locality_Virugambakkam,2.4389267726515433e-05
+"Area Locality_Raheja Heights, Malad East",2.4302319775278884e-05
+"Area Locality_Kabra Centroid, Kalina",2.428303919542887e-05
+Area Locality_Mausam Vihar,2.4009881449057648e-05
+"Area Locality_Avarsekar Heights, Worli",2.3981187100281465e-05
+Area Locality_GREEN PARK,2.384103572385029e-05
+Area Locality_in Mira Road,2.3812738750005158e-05
+Area Locality_Kammanahalli,2.3576930619172916e-05
+Area Locality_Mulund East,2.337472269261349e-05
+"Area Locality_Mahendru Enclave, Model Town",2.267977537878148e-05
+Area Locality_DS 19,2.2559048806680457e-05
+Area Locality_Behala,2.2395881456958037e-05
+Area Locality_Andheri East,2.2217000640316414e-05
+"Area Locality_Imperial Heights, Goregaon West",2.2180811731109908e-05
+Area Locality_Cherlopalli TIRUPATI,2.2136283155002036e-05
+Area Locality_Mambalam West,2.2120415451219716e-05
+"Area Locality_Godrej Prime, Chembur",2.205964733108743e-05
+Area Locality_Kondapur,2.201263168475154e-05
+Area Locality_in Matunga West,2.190477680668885e-05
+"Area Locality_Green Gate Apartment, Pali Hill",2.1597537067969094e-05
+Area Locality_Mulund West,2.135801463815031e-05
+"Area Locality_The Shabad Apartment, Dwarka Sector 13",2.0893943779676824e-05
+"Area Locality_Nallagandla, Serilingampally",2.0884928571456247e-05
+"Area Locality_Bohra Layout, Gottigere, bannerghatta main Road",2.0644899579035e-05
+Area Locality_Mathikere,2.038909432061599e-05
+Area Locality_K P H B Phase 4,2.0364005703456482e-05
+Area Locality_Irumbuliyur,2.0347046934055285e-05
+"Area Locality_Sahapur, New Alipore",2.013424700451328e-05
+"Area Locality_Dodda Nekkundi Extension, Kartik Nagar, Outer Ring Road",2.0045163682454935e-05
+"Area Locality_Aspire, Kandivali East",1.9997381506740433e-05
+"Area Locality_Oberoi Prisma, Agarkar Chowk",1.9995374614809653e-05
+Area Locality_Gandhi Nagar Adyar,1.998342464157838e-05
+"Area Locality_Eco Residency, Andheri East",1.991697243117445e-05
+Area Locality_Paschim Vihar Block A3,1.9608125393104147e-05
+Area Locality_Basavanagudi,1.9535451182362113e-05
+Area Locality_IC Colony,1.95141768625874e-05
+"Area Locality_Shapoorji Pallonji Vicinia, Chandivali",1.9426442452816288e-05
+"Area Locality_Manikonda, Outer Ring Road",1.9410997512469434e-05
+Area Locality_Kalkaji,1.9351148594329002e-05
+Area Locality_Dwarka Sector 17,1.9175024829710772e-05
+Area Locality_Virupakshapura,1.8927726209622263e-05
+"Area Locality_Sion East, Sion",1.8798069734758328e-05
+Area Locality_Vivek Vihar Phase 1,1.856453947501795e-05
+Area Locality_Lake Gardens,1.843785852906803e-05
+Area Locality_Navalur,1.8374420633961534e-05
+"Area Locality_Unicorn Global Arena, Naigaon East",1.8319159229192774e-05
+Area Locality_Karol Bagh,1.828368071719485e-05
+"Area Locality_Godrej Serenity Mumbai, Chembur",1.8277526717906586e-05
+Area Locality_Halasuru,1.8239264296285306e-05
+"Area Locality_Boduppal, NH 2 2",1.8215395817958173e-05
+"Area Locality_Siddhivinayak, Bandra West",1.8174989507181605e-05
+Area Locality_Kuthanur,1.8142478127327918e-05
+Area Locality_Lodha Ajuro tower lalbag,1.8120377045764808e-05
+Area Locality_FC Block,1.798355716766964e-05
+"Area Locality_Island City Centre, Dadar East",1.7939134534458452e-05
+Area Locality_Parmanand Wadi,1.7602586668583053e-05
+Area Locality_New Alipore,1.7449324469246527e-05
+"Area Locality_Royal Residency, Lal Baug",1.7290814286526335e-05
+Area Locality_Panchanantala Road,1.7191001982676442e-05
+"Area Locality_Sabari Ashville, Chembur East",1.7071917369679285e-05
+"Area Locality_MUKTA MAHEK, Thakur Complex",1.70474032639867e-05
+Area Locality_sri sai arcade madinaguda,1.7036493533723205e-05
+Area Locality_Chembur East,1.690073309549189e-05
+"Area Locality_Arjun Nagar, Safdarjung Enclave",1.6869609006432155e-05
+"Area Locality_Royal Palms, Goregaon East",1.681256709382677e-05
+"Area Locality_Gokul Gagan, Thakur Village, Kandivali East",1.6668670820225255e-05
+Area Locality_Mahim,1.6647976960728382e-05
+Area Locality_Anand Niketan,1.6613395886913144e-05
+"Area Locality_Anant Bhoomi, Mahavir Nagar",1.6582612541575664e-05
+"Area Locality_Insignia, Bandra Kurla Complex",1.6577822351091165e-05
+Area Locality_Shakti Nagar,1.6534178262022224e-05
+"Area Locality_George Town, PH Road",1.619849520123056e-05
+"Area Locality_Kanakia Levels, Malad East",1.5965962797118006e-05
+"Area Locality_Almeida Park, Turner Road",1.5906385895417322e-05
+"Area Locality_Evershine Millenium Paradise, Thakur Village, Kandivali East",1.5533949193643188e-05
+Area Locality_Bhayandar East,1.5510012699884203e-05
+"Area Locality_Jaya Nagar Block 1, Jayanagar",1.5466535092124724e-05
+"Area Locality_Hiranandani Gardens Odyssey I, Hiranandani Gardens",1.5232400968444517e-05
+"Area Locality_Srinagar Colony, Old Malakpet, NH 9",1.5080676510619677e-05
+Area Locality_Sanjay Nagar Stage 2,1.5075529484425499e-05
+"Area Locality_Uppal, NH 2 2",1.5037959141446996e-05
+"Area Locality_Valentine Apartments, Gokuldham",1.4994869266814024e-05
+"Area Locality_Devinagar, Outer Ring Road",1.4764657902504576e-05
+"Area Locality_DB Ozone, Mira Road",1.4511041008248342e-05
+"Area Locality_Hiral Greens, Mira Road East",1.4396414124547457e-05
+Area Locality_Malad East,1.4321743406942534e-05
+"Area Locality_Velentine Tower, Goregaon East",1.4273368519082695e-05
+Area Locality_Thanisandra,1.4259985141539798e-05
+Area Locality_Dahisar West,1.410509267771813e-05
+Area Locality_Masab Tank,1.3954175144308852e-05
+"Area Locality_Oberoi Splendor, JVLR-Jogeshwari Vikhroli Link Road",1.3941158580387629e-05
+"Area Locality_Kailash Tower, Nalasopara",1.3938813575232392e-05
+"Area Locality_India Bulls Sky Forest, Lower Parel",1.3869533316444567e-05
+"Area Locality_Chanda Naik Nagar, Madhapur",1.3866399329781018e-05
+Area Locality_Salt Lake City Sector 1,1.3864720241965906e-05
+"Area Locality_Bombay Dyeing Two ICC, Dadar East",1.3776225482972981e-05
+"Area Locality_Cosmopolis Tower, Andheri West",1.3724904177007501e-05
+"Area Locality_Tagore Park, Kasba",1.3716885489957765e-05
+Area Locality_Maruthi Sevanagar,1.3689176900831905e-05
+Area Locality_Hauz Khas,1.3608829380270495e-05
+Area Locality_Central Area,1.3486811539068123e-05
+Area Locality_Najafgarh,1.3479214262143073e-05
+"Area Locality_Alkapur Township, Manikonda, Outer Ring Road",1.3449606921703208e-05
+"Area Locality_Mahindra Splendour, Bhandup West",1.3427941720940204e-05
+"Area Locality_Phool Bagan, Kankurgachi",1.3305921332195207e-05
+"Area Locality_Financial District, Nanakram Guda",1.3244024335457051e-05
+Area Locality_Virar West,1.324371258814054e-05
+Area Locality_Rash Behari Avenue Connector,1.3087994000970674e-05
+"Area Locality_Dwarakapuri, Punjagutta, NH 9",1.3010104337264506e-05
+Area Locality_Juhu Versova Link Road,1.2991331051218195e-05
+Area Locality_Jacob Circle,1.298889468060942e-05
+"Area Locality_Nicon Infinity, Vasai East",1.2738447263052894e-05
+Area Locality_Dr Mukherjee Nagar West,1.2640159293111978e-05
+Area Locality_Mazgaon,1.2565909949432069e-05
+"Area Locality_Nizamuddin East, Nizamuddin",1.2528407701196541e-05
+"Area Locality_Kabra Centroid, Santacruz East",1.2421471051186643e-05
+Area Locality_Sheikh Sarai Phase 1,1.2384472427889777e-05
+Area Locality_Karawal Nagar,1.2383031823367173e-05
+"Area Locality_Raheja Ridgewood, Goregaon East",1.219716926398338e-05
+Area Locality_Dwarka sec 19,1.2185617258887798e-05
+"Area Locality_Hrbr Layout, Kalyan Nagar, Outer Ring Road",1.216986242486897e-05
+"Area Locality_Lodha Altia, Wadala East",1.2161774776744173e-05
+"Area Locality_SK Imperial Heights, Mira Road East",1.2139371583416277e-05
+"Area Locality_Oasis, Lokhandwala Twp",1.1962309446111464e-05
+"Area Locality_Kalpataru Antariksha, Prabhadevi",1.1898458037608302e-05
+"Area Locality_Raj Grandeur, Hiranandani Gardens",1.1825217222119716e-05
+Area Locality_Nagondanahalli,1.181509505583584e-05
+Area Locality_Oshiwara,1.1777003467125962e-05
+"Area Locality_Kanakia Rainforest, Andheri East",1.1739480323835641e-05
+"Area Locality_Kannan Colony, Pazhavanthangal",1.170752021182538e-05
+"Area Locality_Nirman Vihar, Preet Vihar",1.1657170015801266e-05
+"Area Locality_Bhoomi Elegant, Thakur Complex",1.1530490720854357e-05
+Area Locality_Dwarka Mor,1.1506778395791448e-05
+Area Locality_Yashodham,1.1486668878830688e-05
+"Area Locality_Ambedkar Colony, Yelahanka",1.1384878562087477e-05
+Area Locality_Bhandup West,1.1383531567431207e-05
+Area Locality_Uthandi,1.1371907105887717e-05
+Area Locality_Banaswadi,1.1290532203152801e-05
+Area Locality_Toli Chowki,1.1268098001550153e-05
+Area Locality_Prestige Acropolis,1.1114224232106426e-05
+"Area Locality_Lodha Primero, Mahalakshmi",1.1016382880756298e-05
+Area Locality_Bhakti Park,1.0969837405944645e-05
+Area Locality_Thiruporur,1.0852847334429637e-05
+Area Locality_Yelahanka New Town,1.0789396285736303e-05
+Area Locality_Beverly Park,1.0712104372994929e-05
+"Area Locality_Paras Building, Sion East",1.0712058008646992e-05
+"Area Locality_Orchid Residency, Link Road",1.0631163563469164e-05
+"Area Locality_Ramanthapur, NH 2 2",1.0509405028808856e-05
+"Area Locality_Evershine Grandeur, Mindspace",1.0453520941881564e-05
+Area Locality_Rayasandra,1.043143910146283e-05
+"Area Locality_Vintage Pearl Apartment, Bandra West",1.0391208295259922e-05
+"Area Locality_Sakhi, Kandivali West",1.0369785078113583e-05
+"Area Locality_Hennur, Hennur Bagalur Road",1.0173808544379663e-05
+"Area Locality_Sena Vihar, Kammanahalli",1.0141213188574794e-05
+Area Locality_Gottigere,1.0123180414597456e-05
+"Area Locality_Yogi Hills, Mulund West",1.0071651124150684e-05
+"Area Locality_Sanghvi Evana, Worli",1.0069578392237301e-05
+"Area Locality_Royal Lakefront Phase-3 North, JP Nagar Phase 8",9.957716865919002e-06
+"Area Locality_DB Woods, Gokuldham",9.952944567793664e-06
+"Area Locality_Raheja Vista, Powai",9.932410722768508e-06
+"Area Locality_Vaibhav Apartments, Dadar West",9.852517594572606e-06
+"Area Locality_Jp Nagar Phase 5, J P Nagar, Outer Ring Road",9.795709066733651e-06
+Area Locality_Vikhroli,9.773118758026755e-06
+Area Locality_Bansdroni,9.63429419169916e-06
+"Area Locality_Upparpally, Hyderabad Expressway",9.575516532979006e-06
+Area Locality_Yeshwantpur,9.561443721608661e-06
+"Area Locality_Vishnu Shivam Tower, Thakur Village, Kandivali East",9.558695164239145e-06
+"Area Locality_Ajmera Treon, Bhakti Park",9.518350745265608e-06
+Area Locality_Vijay nagar colony m,9.475298720979632e-06
+"Area Locality_Hsr Layout Sector 6, HSR Layout",9.456071733145395e-06
+Area Locality_Mansarover Garden,9.444582079014454e-06
+Area Locality_Byculla West,9.40937975408249e-06
+"Area Locality_ Beeramguda, Ramachandra Puram, NH 9",9.331817515153527e-06
+"Area Locality_Panch Ritu, Chandivali",9.274295223595019e-06
+Area Locality_Virar,9.246084406410193e-06
+Area Locality_Thoraipakkam,9.242426532257761e-06
+"Area Locality_Paschim Apartments, Prabhadevi",9.190391119460417e-06
+Area Locality_Dr A.S. Rao Nagar,9.129414651082535e-06
+"Area Locality_Sanjeevini Nagar, Hegganahalli",9.070111848176747e-06
+Area Locality_Horamavu,9.05328872204104e-06
+"Area Locality_Tridhaatu Bhaveshwar Vilas, Central Avenue Road",9.03121422381059e-06
+"Area Locality_Malakpet, NH 9",9.000225876065851e-06
+Area Locality_Nanakram Guda,8.916051802393276e-06
+"Area Locality_Itpl, Whitefield",8.897530687377197e-06
+"Area Locality_Marigold-5, Beverly Park",8.86147868573871e-06
+Area Locality_Langford Gardens,8.827864756829492e-06
+"Area Locality_Michael Nagar, New Barrakpur",8.825270062733147e-06
+Area Locality_Tumkur Road,8.802680987233068e-06
+"Area Locality_DDA Flats Block B3, Keshav Puram, Tri Nagar",8.73830766762543e-06
+"Area Locality_GSA Grandeur, Gokuldham",8.728128670368926e-06
+Area Locality_Dakshini Pitampura,8.677880109525184e-06
+"Area Locality_Gokul Regency Apartment, Thakur Complex",8.552222082666966e-06
+Area Locality_Rohini Sector 11,8.512240544874625e-06
+Area Locality_Sher E Punjab Society,8.314233962022585e-06
+Area Locality_Sindhi Society Chembur,8.246833977489615e-06
+"Area Locality_Hsr Layout Sector 2, HSR Layout",8.125747971745007e-06
+"Area Locality_Munirka Vihar, Munirka",8.084173792792124e-06
+"Area Locality_Langford Town, Shanti Nagar, Hosur Road",7.997434275605682e-06
+Area Locality_Ghatkopar West,7.980725022682371e-06
+Area Locality_Chakala Cigarette Factory,7.864118180597278e-06
+"Area Locality_Romell Aether, Goregaon East",7.862908971439908e-06
+Area Locality_Alwarthirunagar,7.861980530354444e-06
+Area Locality_Bilekahalli,7.858594839082972e-06
+Area Locality_Ranganathapuram-Medavakkam,7.823538854470724e-06
+Area Locality_Madambakkam,7.7679095751869e-06
+Area Locality_indiranagar near bda complex,7.759570956949357e-06
+"Area Locality_Kaggadasapura, Indira nagar",7.752149798380041e-06
+"Area Locality_Raheja Heights, BMC Colony Malad East",7.742171252884169e-06
+"Area Locality_Himayath Nagar, NH 7",7.717883832218566e-06
+Area Locality_Marathahalli,7.709042033757555e-06
+"Area Locality_Mayuresh Srishti, Bhandup West",7.661737709128868e-06
+"Area Locality_Sheth Montana, Mulund West",7.658394501697733e-06
+Area Locality_Garvebhavi Palya,7.6261510303003074e-06
+Area Locality_Kasba,7.6233043231322126e-06
+"Area Locality_Kanungos Garden City, Mira Road East",7.622847201736192e-06
+"Area Locality_Jp Nagar Phase 7, J P Nagar",7.58879193790165e-06
+Area Locality_JB Nagar,7.581955794262073e-06
+"Area Locality_Neumec Elegance, Lower Parel",7.480053185519851e-06
+"Area Locality_Irla, Vile Parle West",7.4755536286124006e-06
+"Area Locality_Juveria Apartment, Mazgaon",7.427536885259917e-06
+"Area Locality_Kenmore Apartment, Lokhandwala Complex",7.416737345452088e-06
+Area Locality_J P Nagar,7.367502487940332e-06
+Area Locality_Mahatama Gandhi Road,7.358381766682222e-06
+"Area Locality_Nirmal Lifestyle, LBS Marg",7.316534503940971e-06
+Area Locality_Kapra,7.3025772116246154e-06
+Area Locality_Lajpat Nagar 4,7.2226253346360505e-06
+Area Locality_Bowenpally,7.19045609454325e-06
+Area Locality_Iyyappanthangal,7.153612495459698e-06
+"Area Locality_Dheeraj Valley Tower, Goregaon East",7.148212028373473e-06
+Area Locality_Shivaji Nagar,7.117100307372728e-06
+Area Locality_Dwarka,7.083716473967397e-06
+Area Locality_besant nagar Chennai,7.051800092387854e-06
+Area Locality_Anna Nagar West Extension,7.039542235621118e-06
+Area Locality_Salt Lake City Sector 5,7.036382696515629e-06
+"Area Locality_Universal Neo Galaxy, Bhuleshwar",7.011999392609109e-06
+Area Locality_West End,6.946358447772e-06
+Area Locality_Kanakapura Road,6.925639978699482e-06
+Area Locality_Collector Colony,6.896472909344257e-06
+"Area Locality_Sunteck City Avenue 1, Goregaon West",6.844234408482221e-06
+Area Locality_Ram Nagar-Nanganallur,6.842454145851633e-06
+"Area Locality_Ramkrishna Pally, Kaikhali",6.797923674306477e-06
+"Area Locality_Somajiguda, NH 9",6.78180689008754e-06
+"Area Locality_Promenade At The Address, Ghatkopar West",6.780222726957357e-06
+"Area Locality_Jalahalli, Jalahalli, Outer Ring Road",6.719383678074072e-06
+"Area Locality_Ashok Nagar, Himayath Nagar",6.716628908867116e-06
+"Area Locality_Miyapur, NH 9",6.642453875286834e-06
+"Area Locality_Loganathan Colony, Mylapore",6.60715501022646e-06
+"Area Locality_Chembur Heights, Sindhi Society Chembur",6.5992577042239805e-06
+"Area Locality_Panch Complex, Powai",6.560135106932095e-06
+Area Locality_Kurla,6.553495816369291e-06
+Area Locality_Talagatta Pura,6.534821605612328e-06
+Area Locality_Surajmal Vihar,6.522121451085324e-06
+Area Locality_Ramachandrapuram Rajajinagar,6.491175482563093e-06
+"Area Locality_Venkateshappa Layout-Kammanahalli, Kammanahalli",6.48632822063268e-06
+"Area Locality_Lake Primrose, Chandivali",6.482622391306568e-06
+"Area Locality_Arjun Garh, Aya Nagar",6.460464464392375e-06
+"Area Locality_Godrej The Trees, Pirojshah Nagar",6.407247682046692e-06
+"Area Locality_Green Woods Chkala, Andheri East",6.354238374024524e-06
+Area Locality_Nandambakkam,6.3525975923648685e-06
+"Area Locality_Gachibowli CUC, Outer Ring Road",6.336946223460143e-06
+Area Locality_Shanti Nagar,6.319301743172361e-06
+"Area Locality_Kattigenahalli, Bellary Road",6.305027930404443e-06
+"Area Locality_KMR Estates, Serilingampally",6.296260468498823e-06
+Area Locality_Mayur Vihar Phase 1 Extension,6.27828192360247e-06
+Area Locality_Dahisar East,6.267039486835639e-06
+Area Locality_Royapettah,6.190632320984202e-06
+"Area Locality_Kanakia Rainforest, Marol",6.167219413839327e-06
+Area Locality_Irla,6.1062850096514e-06
+Area Locality_Mahatma Gandhi Road,6.097009753341381e-06
+Area Locality_Defence Colony Layout,6.087510975069638e-06
+Area Locality_in Mahim West,6.085356856891188e-06
+"Area Locality_Man Opus, Mira Road East",6.065353399699906e-06
+Area Locality_Sakinaka Junction,6.022367575441657e-06
+"Area Locality_Park Circus, Ballygunge",5.944150213559265e-06
+Area Locality_East Nehru Nagar,5.925730187657243e-06
+"Area Locality_Ombr Layout, Banaswadi",5.899644690179686e-06
+Area Locality_K R Puram,5.856348309398516e-06
+"Area Locality_Omkar Alta Monte, Kurar Village",5.754850839110659e-06
+"Area Locality_Nanja Reddy Colony, Jeevan Bima Nagar",5.738156123746344e-06
+"Area Locality_RNA Broadway Avenue, Mira Road",5.736893170123748e-06
+"Area Locality_Lodha Marquise, Worli Sea Face",5.727304771194803e-06
+Area Locality_Santoshpur,5.725765360681269e-06
+Area Locality_Uttam Nagar,5.719364549130555e-06
+Area Locality_Begumpet,5.670402827499071e-06
+Area Locality_darshan ricco Tower,5.665833765383143e-06
+"Area Locality_White Lily Apartment, Bhandup East",5.649841922115967e-06
+Area Locality_Jangpura,5.62434265564824e-06
+Area Locality_Wilson garden Bangalore,5.513139617514466e-06
+Area Locality_Mukund Nagar,5.461084263456307e-06
+"Area Locality_Okkiyam Thuraipakkam, E Coast Road",5.3428527385456624e-06
+Area Locality_Sadhanadhapuram,5.283133876977172e-06
+"Area Locality_Safal Twins, Chembur",5.247848121657733e-06
+Area Locality_Sion Trombay Road,5.239569156704254e-06
+"Area Locality_K Raheja Maple Leaf, Powai",5.181600504167784e-06
+"Area Locality_Bolarum, Medchal Road",5.164877810339722e-06
+"Area Locality_Action Area 3, Rajarhat Newtown",5.162384203713417e-06
+"Area Locality_TATA Housing Merwanjee Cama Park, Andheri West",5.136884960835521e-06
+Area Locality_Bhandup East,5.110407631925259e-06
+Area Locality_Charkop Sector 6,5.0742482339872715e-06
+"Area Locality_Panchsheel Vihar, Sheikh Sarai",5.070959197612361e-06
+"Area Locality_Nahar Jonquille and Jamaica, Chandivali",5.050857105042708e-06
+"Area Locality_Sukanta Nagar, New Barrakpur",5.049339468572549e-06
+"Area Locality_Lodha Bel Air, Jogeshwari West",4.970591284929475e-06
+Area Locality_Shaikpet,4.956294268534648e-06
+"Area Locality_Raheja Heights Phase 2, Gokuldham",4.950909755304245e-06
+"Area Locality_Padur, Old Mahabalipuram Road",4.933271624973487e-06
+"Area Locality_Hsr Layout Sector 3, HSR Layout",4.92596060767408e-06
+Area Locality_Kanchrapara,4.8846917424639775e-06
+"Area Locality_Kokapet, Outer Ring Road",4.862586056574725e-06
+"Area Locality_Gagan Vihar, Krishna Nagar",4.851426744888654e-06
+Area Locality_in Saligramam,4.842444323955764e-06
+"Area Locality_Paryavaran Complex, Sainik Farm",4.833100397693358e-06
+"Area Locality_Lodha World Crest, Lower Parel",4.80632052481043e-06
+"Area Locality_Urapakkam, Vandalur R.F, GST Road",4.799512212786963e-06
+Area Locality_Tilak Nagar - Harbour Line,4.796094595012522e-06
+Area Locality_Rohini Sector 24,4.786631060604893e-06
+"Area Locality_Palavakkam, E Coast Road",4.783829095984305e-06
+"Area Locality_Lake Area, Nungambakkam",4.782948638149556e-06
+"Area Locality_Kelambakkam, Old Mahabalipuram Road",4.780271764409379e-06
+"Area Locality_Btm Layout Stage 2, BTM Layout",4.761471987300108e-06
+"Area Locality_Bhakti Park, Bhakti Park",4.745115397067432e-06
+Area Locality_Sathnur,4.732066872635955e-06
+"Area Locality_Alpine Shapoorji Pallonji, Thakur Village, Kandivali East",4.728614574405759e-06
+"Area Locality_Ganpat Niketan Apartment, Khar West",4.713659218907486e-06
+Area Locality_Sun City Layout,4.7098492408818436e-06
+"Area Locality_Purasawalkam, PH Road",4.68105119710348e-06
+Area Locality_Chattarpur Extension,4.6731152945848915e-06
+"Area Locality_Sonal Apartment, Bhandari Compound",4.673052120342466e-06
+Area Locality_Rohini Sector 38,4.656904518483354e-06
+"Area Locality_Yashodham Complex, Goregaon East",4.639352646698222e-06
+Area Locality_Jadavpur University,4.628165691673685e-06
+Area Locality_Rampally,4.594671394204729e-06
+Area Locality_Chinmay Gaurang Infrastructure Old Panvel,4.570986635159588e-06
+Area Locality_Cunningham Road,4.552001466797048e-06
+"Area Locality_Basheer Bagh, NH 7",4.544582603731974e-06
+Area Locality_Subhash Nagar,4.496076936624062e-06
+Area Locality_Meerpet,4.489312394355631e-06
+"Area Locality_DDA Flats Sector E Pocket 1, Vasant Kunj",4.484778795745471e-06
+"Area Locality_Celestia Spaces, Balkrishna Dadu Karade Chowk",4.48445841064425e-06
+Area Locality_Mulund Railway Station,4.480552978017492e-06
+Area Locality_Kolathur,4.469000741188551e-06
+Area Locality_Punjagutta X Roads,4.438906903638092e-06
+Area Locality_Camelot Layout,4.4321657568403215e-06
+"Area Locality_Sai Aasha Daya, Mulund East",4.4117536920498055e-06
+Area Locality_Rohini Sector 15,4.407428950712088e-06
+"Area Locality_Shree Sai Usha Complex, Bhandup West",4.382811841547634e-06
+Area Locality_Guduvancheri,4.365940907303712e-06
+Area Locality_Shilphata,4.362006125797416e-06
+Area Locality_Preet Vihar,4.356285579536486e-06
+"Area Locality_Salasar Garden, Beverly Park",4.314085656463603e-06
+Area Locality_Koramangala Block 4,4.282669404281089e-06
+"Area Locality_Hyder Nagar, NH 9",4.282334456063885e-06
+"Area Locality_Kasturba Niketan, Lajpat Nagar 2",4.272158409603647e-06
+Area Locality_Agarpara,4.261959468833878e-06
+"Area Locality_Godrej Central, Chembur",4.222896736851749e-06
+"Area Locality_Khirki extension, Malviya Nagar",4.22180595622404e-06
+Area Locality_Mayur Vihar 1,4.215040758356124e-06
+"Area Locality_DDA Flat AD Block, Shalimar Bagh AD Block",4.186337320249007e-06
+"Area Locality_NG Royal Park, Kanjurmarg East",4.17085140442248e-06
+"Area Locality_Saini Enclave, Anand Vihar",4.149045337998202e-06
+"Area Locality_Regent Estate, Bijoygarh",4.125766980303203e-06
+Area Locality_Hoysala Nagar,4.082561761325683e-06
+Area Locality_Sainikpuri,4.064037891757405e-06
+Area Locality_Triplicane,4.053815172819801e-06
+"Area Locality_Mayfair Sonata Greens, Park Site Colony",4.043348584643242e-06
+Area Locality_Sri Nagar Colony,4.025279237454121e-06
+"Area Locality_Dheeraj Swapna Apartment, Pali Hill",4.023941164176214e-06
+Area Locality_Gandhi Market,3.969896069425216e-06
+Area Locality_Outer Ring Road,3.963458783778752e-06
+"Area Locality_Sethia Grandeur, Bandra East",3.958840353841273e-06
+Area Locality_Prestige Bellavista,3.948242595114184e-06
+Area Locality_Ulsoor Road,3.94420459790409e-06
+"Area Locality_Quthbullapur, NH 7",3.923764956281719e-06
+"Area Locality_HDIL Metropolis, 4 Bunglows",3.923484210484768e-06
+"Area Locality_Vasant Marvel, Magathane",3.921787574401721e-06
+"Area Locality_Antop Hill, Wadala",3.912600730057398e-06
+Area Locality_Sivanchetti Gardens,3.890739499853007e-06
+Area Locality_Borivali West,3.864247631813789e-06
+Area Locality_in Andheri West,3.857968938807889e-06
+Area Locality_Anushakti Nagar,3.848324246683016e-06
+"Area Locality_Lake Superior, Powai",3.8046302207965865e-06
+Area Locality_Srishti Complex,3.7965568643994527e-06
+Area Locality_Airport Area Behala,3.792067214099784e-06
+"Area Locality_DDA Flats Sarita Vihar, Sarita Vihar, Mathura Road",3.7900173079562264e-06
+Area Locality_Kovur,3.7796872337637884e-06
+Area Locality_Mira Bhayandar,3.7224137611554432e-06
+Area Locality_Koramangala 8Th Block,3.716755232058222e-06
+"Area Locality_Chandanagar, NH 9",3.6942398789812163e-06
+"Area Locality_Odyssey Bhakti Park, Bhakti Park",3.6739198632294467e-06
+Area Locality_Kodi Halli,3.673815829467785e-06
+Area Locality_D.N. Nagar,3.648499311632754e-06
+Area Locality_New Delhi,3.6474766888118717e-06
+Area Locality_Perumbakkam,3.60294594441237e-06
+Area Locality_Kadabagere,3.578518010296474e-06
+Area Locality_Dum Dum,3.5475431748547037e-06
+Area Locality_Siruseri,3.5443815183348346e-06
+Area Locality_Lodha casa rio,3.53325136811735e-06
+"Area Locality_Leo Ratnakar, Mahavir Nagar",3.5315947481356877e-06
+Area Locality_Jaya Nagar Block 3,3.5277150856581566e-06
+Area Locality_Malleshwaram,3.5127161123070675e-06
+Area Locality_Kandivali West,3.511788987032303e-06
+Area Locality_Bannerghatta Main Road,3.5064918240951872e-06
+Area Locality_Anakaputhur,3.479696118463863e-06
+Area Locality_orchid suburbia,3.4644445015090695e-06
+"Area Locality_Rose Queen, Old Khar",3.4599629393966967e-06
+Area Locality_Rabindra Sarovar Metro,3.458163146781381e-06
+"Area Locality_Hubtown Sunmist, Chakala",3.4561090758599555e-06
+"Area Locality_Kanakia Sevens, Andheri East",3.4340525724168204e-06
+"Area Locality_Altavista, Chembur",3.4235556319821167e-06
+"Area Locality_Bongloor, Outer Ring Road",3.415604700986814e-06
+"Area Locality_Hazra, Kalighat",3.413689865611207e-06
+"Area Locality_Hrbr Layout Block 2, Kalyan Nagar, Outer Ring Road",3.40079335177572e-06
+Area Locality_Chakala,3.379758918128957e-06
+Area Locality_Nanakaramguda,3.3656896450411762e-06
+Area Locality_Hooghly-Chinsurah,3.3630767079060067e-06
+Area Locality_Ghitorni,3.3566036179450826e-06
+"Area Locality_Neknampur, Manikonda, Outer Ring Road",3.3520335277687836e-06
+Area Locality_Porur,3.350160213297819e-06
+"Area Locality_Kabra Metro One, Seven Bungalows",3.3456427341140327e-06
+Area Locality_Mahadevapura,3.333284634901206e-06
+Area Locality_Bandlaguda Jagir,3.3187446928762886e-06
+"Area Locality_Hiranandani Gardens Torino, Hiranandani Gardens",3.2920086789581623e-06
+Area Locality_Old Bowenpally,3.2832064873476233e-06
+Area Locality_Nanganallur,3.264050308406244e-06
+Area Locality_Suraram,3.2404174786111055e-06
+"Area Locality_Takshila CHS, Andheri East",3.2260415434045397e-06
+Area Locality_Gopalpur,3.225476309701024e-06
+Area Locality_Jaffarpore Rifle Range Road,3.223159472062431e-06
+Area Locality_Asif Nagar,3.216643900243617e-06
+Area Locality_Kalina,3.2048759224721337e-06
+Area Locality_Sion,3.203414078091958e-06
+Area Locality_Bagha Jatin Pally,3.1672903530175037e-06
+Area Locality_Seshadripuram,3.1580954985750094e-06
+Area Locality_Krishna Park,3.1485843442416104e-06
+Area Locality_kasba bosepukur,3.1394456095304647e-06
+"Area Locality_Crescent Solitaire, Sakinaka Junction",3.1291146265312986e-06
+"Area Locality_Insignia, Bandra East",3.0902566188226086e-06
+"Area Locality_Tambaram, GST Road",3.0795239554036176e-06
+Area Locality_Vijayanagar,3.0775235828315568e-06
+"Area Locality_Jagriti Enclave, Anand Vihar",3.07685612039074e-06
+Area Locality_Vasundhara Enclave,3.035501925431106e-06
+Area Locality_Vikaspuri,3.0211164267791266e-06
+Area Locality_Electronic City,3.020811955806812e-06
+"Area Locality_Rivali Park, Borivali East",3.0192388131268876e-06
+"Area Locality_Murugeshpalya, Airport Road",3.01778882352117e-06
+"Area Locality_Milap CHS, Seven Bungalows",2.998118607780131e-06
+Area Locality_Paschim Vihar Block B1,2.983964334925735e-06
+Area Locality_Ramrajatala,2.982720249717142e-06
+"Area Locality_APHB Colony-Moula Ali, Moula Ali Road",2.9815344675726662e-06
+Area Locality_Kambar Colony,2.9803350593522085e-06
+Area Locality_Bhatti Pada,2.9736065099594016e-06
+Area Locality_Mukherjee Nagar,2.972999530867555e-06
+"Area Locality_Chanakya Place, Sitapuri",2.972931164516641e-06
+Area Locality_Dumdum Park,2.9548469527195766e-06
+"Area Locality_Shampura, Kaval Byrasandra",2.9499423236064195e-06
+Area Locality_Kanchan Bagh,2.9318980471511243e-06
+Area Locality_Rohini Sector 5,2.931228078471552e-06
+"Area Locality_Runwal Forests, Kanjurmarg West",2.9304851315739026e-06
+"Area Locality_TTK Nagar, Tambaram",2.922437942882546e-06
+"Area Locality_Vasant Oscar, Mulund West",2.905628771780077e-06
+"Area Locality_Perungalathur, Chennai Bypass Road",2.9040267966190492e-06
+Area Locality_Charkop,2.8781889549720946e-06
+Area Locality_Bhagwati Garden,2.8751797847886884e-06
+Area Locality_Pandav Nagar,2.872133107135266e-06
+Area Locality_OU Colony-Shaikpet,2.868906899940844e-06
+"Area Locality_Bindra Complex , Andheri East",2.8467064143670304e-06
+"Area Locality_Shiv Ganga Apartment, Malad West",2.826373530603507e-06
+"Area Locality_Janak Park, Hari Nagar",2.8219826851729108e-06
+Area Locality_south station pally dankuni,2.8205389580444976e-06
+"Area Locality_Mallikarjuna Nagar, Secunderabad",2.812870384034656e-06
+Area Locality_Surya Apartment pocket a11,2.8072994092067003e-06
+"Area Locality_Rajendra Nagar, Outer Ring Road",2.8048846518355014e-06
+"Area Locality_Oberoi Woods, Goregaon East",2.7930708777937255e-06
+Area Locality_Btm Layout,2.78074564732052e-06
+Area Locality_Choolaimedu,2.7751940482996186e-06
+Area Locality_Baguihati,2.7587183445338078e-06
+"Area Locality_Electronic City Phase 2, Electronic City",2.757399624372923e-06
+"Area Locality_Tiruvallur, Kakkalur, Chennai",2.742625199323022e-06
+"Area Locality_Techno Park I, Kandivali East",2.7382259851131543e-06
+Area Locality_Hennur Main Road,2.7288798381334794e-06
+"Area Locality_Kanakia Sevens, Marol Maroshi Road",2.6800702561508037e-06
+Area Locality_Vivek Vihar,2.6554180169211036e-06
+"Area Locality_Kalpataru Crest, Bhandup West",2.645078060277717e-06
+Area Locality_Rohini Sector 7,2.6320044961277505e-06
+Area Locality_Kanjurmarg West,2.622763100339068e-06
+Area Locality_Rambaug,2.6073469048397827e-06
+Area Locality_Kanjurmarg East,2.6044664625313136e-06
+"Area Locality_Galassia, Kandarpada",2.5975748824551884e-06
+Area Locality_RWA triveni residents,2.578616532935713e-06
+"Area Locality_Rajpur Khurd Extension, Rajpur",2.5395134980801946e-06
+Area Locality_Vikhroli West,2.532517796029576e-06
+Area Locality_Pallikaranai,2.5309670006773868e-06
+Area Locality_Moula Ali,2.5071593746344943e-06
+"Area Locality_Jillelguda, Medbowli",2.4811794395874615e-06
+"Area Locality_Sion East, Sion Koliwada",2.455904949235278e-06
+Area Locality_Aya Nagar Extension,2.444988147813624e-06
+"Area Locality_Hubtown Gardenia, Mira Road",2.4337266126299893e-06
+Area Locality_Ketki Pada,2.4243498163061835e-06
+"Area Locality_Arvind Nagar Colony, Toli Chowki",2.4187632919580603e-06
+Area Locality_Kamarajar Salai,2.415419024968627e-06
+Area Locality_Kistareddypet,2.4139552783287143e-06
+"Area Locality_Mohan Garden, Razapur Khurd",2.3962391508845052e-06
+Area Locality_Annanagar East,2.386813418830684e-06
+Area Locality_Panjagutta Colony,2.385168043162362e-06
+Area Locality_Srisailam Highway,2.3629835144403176e-06
+Area Locality_Balanagar,2.356833718161002e-06
+Area Locality_Serenity Complex,2.3527917320289654e-06
+"Area Locality_East End Apartments, Ph. 1ext near new Ashok nagar",2.345538872042905e-06
+"Area Locality_Keshav Srishti, Bhandup West",2.3320840074334803e-06
+"Area Locality_Ghatkesar, NH 2 2",2.3174274402768837e-06
+Area Locality_Gokuldham,2.3173547026578217e-06
+"Area Locality_Guru Angad Nagar West, Laxmi Nagar",2.2974936190337588e-06
+Area Locality_Bhadrakali,2.2952974014748273e-06
+Area Locality_Kompally,2.2951313940626157e-06
+Area Locality_Keshtopur,2.292137861504733e-06
+Area Locality_Chittaranjan Park,2.285556468849554e-06
+Area Locality_Hydershakote,2.2790364858437196e-06
+"Area Locality_Oberoi Splendor, Agarkar Chowk",2.27824264622414e-06
+Area Locality_Kalyan Nagar,2.2732106973810414e-06
+Area Locality_Mehdipatnam,2.26730277169504e-06
+Area Locality_in Bannerghatta Road,2.257169302886885e-06
+"Area Locality_Murad Nagar, Lal Darwaza, Falaknuma Road",2.257098926764797e-06
+Area Locality_Mahajan Wadi,2.2493908614851155e-06
+Area Locality_Rajendra Mandal,2.2479706333332825e-06
+Area Locality_Arasankalani,2.2414411422821736e-06
+Area Locality_Puppalaguda,2.237947465020662e-06
+Area Locality_Arumbakkam,2.2230693641511706e-06
+Area Locality_Patparganj,2.214883739720042e-06
+Area Locality_Lakshmipura,2.179974376061919e-06
+"Area Locality_Dreams Complex, Bhandup West",2.178605209377769e-06
+Area Locality_Chittaranjan Park Block K,2.175738300161779e-06
+Area Locality_Laggere,2.1739709037625015e-06
+Area Locality_Deepthisri nagar colony,2.1593895227531782e-06
+"Area Locality_DJA Apartments, Dwarka Sector 13",2.1495133412028753e-06
+"Area Locality_Shiv Dham Apartment, Goregaon East",2.1494696658077305e-06
+"Area Locality_lokhandwala residency, Worli",2.148315701472586e-06
+Area Locality_Ayappakkam,2.1410293655917262e-06
+Area Locality_Shadipur,2.1339427484390494e-06
+"Area Locality_Nemilichery, Chromepet",2.1279616005782946e-06
+Area Locality_Kings Circle,2.126127492172995e-06
+Area Locality_Haralur Road,2.1205443506986696e-06
+"Area Locality_Everest Apartment, Kalkaji",2.1044783601966474e-06
+Area Locality_Alwal,2.094927429049375e-06
+Area Locality_Benson Town,2.0867304007824916e-06
+Area Locality_Barrackpore,2.0842082930719442e-06
+Area Locality_Attapur,2.0780077982883173e-06
+Area Locality_Sangam Vihar,2.0694697425782473e-06
+"Area Locality_Cooke Town, Cooke Town",2.0667173383740413e-06
+Area Locality_Dwarka Sector 9,2.0544422959514937e-06
+Area Locality_New Bel Road,2.04718655402017e-06
+"Area Locality_Mindspace, Mindspace",2.0469641668832515e-06
+Area Locality_Mathur,2.0373150074790398e-06
+"Area Locality_Nem Vihar, Mulund West",2.0344244053406816e-06
+"Area Locality_Vijaya Heritage, Chembur",2.0317827337761766e-06
+Area Locality_KBR Laxmi Residency,2.0289407640328363e-06
+Area Locality_Goregaon East,1.9891636086126107e-06
+Area Locality_Whitefields,1.9876850238391107e-06
+Area Locality_Kalyani,1.9831843058714792e-06
+"Area Locality_Khaja Guda, Outer Ring Road",1.982501835964493e-06
+"Area Locality_MAHA BUILDERS, SAIMAA CASTLE, VELACHERY",1.9763147239616104e-06
+"Area Locality_Hillcrest, Chakala MIDC",1.9686288682606183e-06
+Area Locality_Santosh Nagar,1.960000868047606e-06
+Area Locality_Srinivaspura,1.9556057842561624e-06
+"Area Locality_Sejal Tower, Goregaon West",1.943519646582574e-06
+"Area Locality_Kodalia, Hooghly-Chinsurah",1.934598765576197e-06
+Area Locality_Rock garden Chs,1.931820328485205e-06
+Area Locality_Bangalore,1.9208286106157135e-06
+"Area Locality_LB Nagar, NH 9",1.8935056124188571e-06
+Area Locality_Kellys,1.8741780655486005e-06
+Area Locality_Sreebhumi,1.867939705631133e-06
+Area Locality_Badarpur,1.8676649473537698e-06
+"Area Locality_Kachiguda, NH 2 2",1.8598345211067936e-06
+Area Locality_Kayarambedu,1.8059836844552538e-06
+Area Locality_Chintalakunta,1.8057814503216067e-06
+Area Locality_Medavakkam,1.803331520245822e-06
+Area Locality_Chinna Porur,1.8000842724820999e-06
+"Area Locality_Vimanapura, Airport Road",1.7983415387520074e-06
+Area Locality_K P H B Phase 9,1.763819820970597e-06
+Area Locality_Neb Sarai,1.754570700680263e-06
+Area Locality_Kalavakkam,1.7537511340812144e-06
+"Area Locality_Beeramguda, Ramachandra Puram, NH 9",1.7453284466842121e-06
+"Area Locality_Alpine, Kandivali East",1.717489344578024e-06
+Area Locality_Jhilmil Colony,1.7083087597737444e-06
+"Area Locality_Kr Garden-Murugeshpalya, Murugeshpalya, Airport Road",1.6966595208562848e-06
+Area Locality_Dum Dum Metro,1.6832641197949288e-06
+Area Locality_Kengeri Hobli,1.6830475308115157e-06
+"Area Locality_ in Miyapur, NH 9",1.6805311980258126e-06
+Area Locality_Chandapura,1.676486257468306e-06
+Area Locality_in Kandivali West,1.66952744156046e-06
+Area Locality_Wadala,1.668762972371141e-06
+"Area Locality_Arakere Mico Layout, Arakere",1.6589844135550893e-06
+"Area Locality_Pai Layout-Hulimavu, Hulimavu",1.6552241164440446e-06
+Area Locality_in Borivali West,1.647033070386914e-06
+"Area Locality_Lakkasandra, Wilson Garden, bannerghatta main road",1.636159723946161e-06
+"Area Locality_Doddathoguru, Electronic City",1.6350116862644408e-06
+"Area Locality_Lajpat Nagar II, null",1.6269637257435667e-06
+"Area Locality_Ayodhya Nagar, Quthbullapur",1.6259809103814918e-06
+Area Locality_B.S.Maktha,1.6241508869999452e-06
+"Area Locality_Jumbo Darshan , Andheri East",1.6124796414425264e-06
+"Area Locality_Vikrampuri, Secunderabad",1.6017765085076935e-06
+"Area Locality_Vasant Kunj 2, Vasant Kunj",1.6008840519136284e-06
+"Area Locality_Baishnabghata, Garia",1.5976441800424045e-06
+"Area Locality_Red Hills, Lakdikapul, NH 7",1.5941392048923005e-06
+Area Locality_Dattani Park,1.5881295547682482e-06
+"Area Locality_Highland Tower, Dwarka Sector 12",1.5762373516553031e-06
+"Area Locality_Panaiyur, E Coast Road",1.5622778253331914e-06
+"Area Locality_Vanasthalipuram, NH 9",1.5591041266319465e-06
+"Area Locality_Anita, Lokhandwala Twp",1.5557260515609363e-06
+Area Locality_Kaikhali,1.552709013929306e-06
+Area Locality_Kothanur,1.5493313276671907e-06
+Area Locality_Bda Layout -Lingarajapuram,1.5443641507136815e-06
+Area Locality_Dilshad Garden,1.5429549995050178e-06
+Area Locality_Raj Nagar 2,1.5412031514734957e-06
+Area Locality_Chanda Nagar,1.5407949366251402e-06
+"Area Locality_Nalanda Apartment, Vikaspuri",1.5357263042308678e-06
+"Area Locality_RNA ROYALE PARK, Kandivali West",1.525170027300147e-06
+"Area Locality_Suryodaya CHS, Prabhadevi",1.5035294470795399e-06
+Area Locality_Sarjapur Road,1.5035069694982824e-06
+"Area Locality_Swastik Pride, Chembur East",1.5026914507284334e-06
+Area Locality_Parnasree Pally,1.4890839825550427e-06
+"Area Locality_Supreme Divine Light CHS, Chakala",1.4879304319301486e-06
+"Area Locality_Madhugiri Society, Chembur",1.4761796761321093e-06
+"Area Locality_Prasanna Vastu Chs, Jankalyan Nagar",1.4727571259237707e-06
+"Area Locality_Mahalaxmi CHS, Worli",1.4555963561413478e-06
+Area Locality_Tn Chatterjee Street,1.4471583976159211e-06
+Area Locality_Ganga Nagar,1.4470034059305036e-06
+Area Locality_Byrathi,1.4371331670534058e-06
+Area Locality_KPHB Road,1.4368559880453543e-06
+Area Locality_Shyam Bazar,1.4176423102223948e-06
+Area Locality_Ultadanga,1.4164311060319766e-06
+"Area Locality_Jakkur Plantation, Jakkuru, Bellary Road",1.4067810044089737e-06
+Area Locality_Vasanth Nagar,1.3836778427107105e-06
+Area Locality_Saidapet,1.370675965449588e-06
+"Area Locality_Saidapet West, Saidapet",1.360725219272439e-06
+Area Locality_Wilson Garden,1.359417239000574e-06
+"Area Locality_Hbr Layout Block 4, HBR Layout",1.3577965098569111e-06
+"Area Locality_Shaheen Apartment, Andheri West",1.3532625474376577e-06
+"Area Locality_Midas Enclave CHS , Nandiadwala Colony",1.3496349305398955e-06
+"Area Locality_Oasis, Akurli Nagar",1.348725484372537e-06
+"Area Locality_Pragathi Nagar, Kukatpally",1.336716619389893e-06
+Area Locality_rgl bungalows,1.331878307291141e-06
+"Area Locality_Godrej Tranquil, Lokhandwala Twp",1.3303384786448149e-06
+Area Locality_Jeedimetla,1.3287230611278238e-06
+Area Locality_Serilingampally,1.3264592726763336e-06
+Area Locality_Kandivali East,1.318189927670109e-06
+"Area Locality_Godrej Tranquil, Kandivali East",1.3044766450235785e-06
+Area Locality_Gautam Nagar,1.2941595129357242e-06
+"Area Locality_Akruti Orchid Park, Sakinaka Junction",1.2820116288481174e-06
+"Area Locality_Shimpla Vighnaharta CHS, Seven Bungalows",1.2717517658062838e-06
+Area Locality_Nagarbhavi,1.258015939779496e-06
+Area Locality_Srinagarchs chembur west near sankralyammandir,1.241405955837404e-06
+"Area Locality_Pushpa Colony, Saligramam",1.222197998696887e-06
+Area Locality_Dariya,1.2220320357787752e-06
+Area Locality_Mahindra World City,1.2190634331611875e-06
+"Area Locality_117 Residency, Chembur East",1.2111742984885714e-06
+Area Locality_Narendrapur,1.1990579263441723e-06
+"Area Locality_Action Area 1, Rajarhat Newtown",1.1915856065760644e-06
+Area Locality_Madhyam Gram,1.1758895007845146e-06
+"Area Locality_Indraprastha Extension, Patparganj",1.1500883037782598e-06
+Area Locality_in Borivali East,1.1454989011721584e-06
+Area Locality_Hebbal Kempapura,1.1417039748290587e-06
+Area Locality_Shahdara,1.1385665284948535e-06
+Area Locality_Oragadam,1.1353831693433378e-06
+Area Locality_Cghs apts.,1.1299042249449367e-06
+"Area Locality_Sundew CHS, Chandivali",1.128106662045839e-06
+"Area Locality_MJ Shah Centrio, Chembur",1.1263641037329489e-06
+Area Locality_Almasguda,1.1240255556655917e-06
+"Area Locality_Narsingi, Outer Ring Road",1.1193257893718511e-06
+"Area Locality_Hayathnagar, NH 9",1.114859721923478e-06
+Area Locality_Elango Nagar-Virugambakkam,1.1119443514811598e-06
+"Area Locality_Siddhi Vinayak Nagar, Madhapur",1.1047505314039295e-06
+Area Locality_Jayanagar,1.0914025533611781e-06
+"Area Locality_Ramachandra Puram, NH 9",1.0911949575970975e-06
+Area Locality_Rohini Sector 18,1.0911121415064672e-06
+Area Locality_Hulimavu,1.0896447541373725e-06
+Area Locality_shukhobrishti,1.0798479493808218e-06
+Area Locality_Aya Nagar,1.0756534857915121e-06
+"Area Locality_Shiv Bhagtani Manor 3A, Powai",1.0747508230129413e-06
+Area Locality_venkatapuram,1.0742446813280461e-06
+"Area Locality_HDIL Premier Residences, Kurla West",1.0721169502267363e-06
+"Area Locality_vanamali chs ghatla, Ghatla",1.0696414189850932e-06
+Area Locality_Evershine Nagar,1.064587043237807e-06
+Area Locality_Ambattur,1.063608126661315e-06
+"Area Locality_Satgachi, South Dum Dum",1.0472465123016312e-06
+Area Locality_Badesahebguda,1.046184573483296e-06
+"Area Locality_Gokul Apartment, Evershine Nagar",1.0439396426190946e-06
+"Area Locality_Akshya nagar, Raghavendra colony, Road no:4,Boduppal",1.0410079436215724e-06
+Area Locality_Kothapet,1.0320939416982346e-06
+"Area Locality_Sarita Vihar, Mathura Road",1.0298900180459182e-06
+Area Locality_locality,1.0250778788068795e-06
+Area Locality_Mambakkam,1.023154232030149e-06
+"Area Locality_Sky Villa, Gokuldham",1.0229187018180462e-06
+Area Locality_Jogupalya,1.0166336663477605e-06
+Area Locality_in Santacruz East,1.0132461733858697e-06
+Area Locality_Pammal,1.003855793529204e-06
+Area Locality_Baranagar,1.0025399645958016e-06
+Area Locality_Anna Nagar West,1.000732615726513e-06
+Area Locality_Beliaghata,9.976618515281e-07
+Area Locality_Suchitra Circle,9.967682776962623e-07
+Area Locality_Mithila Nagar-Banjara Hills,9.92941684913452e-07
+"Area Locality_Neelankarai, E Coast Road",9.860565934758419e-07
+Area Locality_Adambakkam,9.81278672294547e-07
+"Area Locality_Yousufguda, NH 9",9.658810571337178e-07
+"Area Locality_Ambedkar Nagar-Boduppal, Secunderabad",9.65019310577652e-07
+Area Locality_Dori Walan,9.645495031359148e-07
+Area Locality_in Byculla,9.638477840546115e-07
+"Area Locality_Puzhuthivakkam, Madipakkam",9.596535856343707e-07
+Area Locality_Film City Road,9.521861361431461e-07
+Area Locality_CV Raman Nagar,9.482273630255365e-07
+"Area Locality_Lakdikapul, NH 9",9.452358860612061e-07
+"Area Locality_Tarapuri Colony, Secunderabad",9.395847872988521e-07
+"Area Locality_Runwal Elina, Andheri East",9.33041566809677e-07
+"Area Locality_Jp Nagar Phase 6, J P Nagar, Outer Ring Road",9.316783961525054e-07
+Area Locality_Garia,9.291207025268114e-07
+Area Locality_Vivek Vihar Phase 2,9.260713584359776e-07
+"Area Locality_Omkar Meridia, Bandra Kurla Complex",9.211624030043218e-07
+Area Locality_Naihati,9.196572275783207e-07
+Area Locality_Hati Bagan - Bansdroni,9.15124317713587e-07
+Area Locality_Indra Nagar,9.02724132109382e-07
+Area Locality_Dammaiguda,9.002374341342353e-07
+Area Locality_Yari Road,8.926887764609943e-07
+Area Locality_Palam,8.749159958708566e-07
+Area Locality_Chikkabanavara,8.739561491945796e-07
+"Area Locality_M C Layout, Vijayanagar, Magadi Road",8.73652810740479e-07
+"Area Locality_Kesari Nagar, Adambakkam",8.660929183217538e-07
+Area Locality_Mominpur,8.647071646888696e-07
+Area Locality_Baguiati,8.635644720891529e-07
+"Area Locality_Sethia Kalpavruksh Heights, Irani Wada",8.634630128122283e-07
+Area Locality_Tiruvenkadam Nagar,8.616725058127662e-07
+Area Locality_Harrington Road,8.5992149917202e-07
+"Area Locality_New Garia, Garia",8.596309898937255e-07
+Area Locality_Datta Pada,8.548514648477738e-07
+Area Locality_Tambaram East,8.546788648651398e-07
+Area Locality_Nanmangalam,8.54569004201269e-07
+"Area Locality_Rajdanga Gardens, Kasba",8.425899359516843e-07
+Area Locality_Parel,8.416013068890805e-07
+"Area Locality_Trans Residency, Andheri East",8.37951958532401e-07
+Area Locality_Prashanth Nagar,8.345808200444376e-07
+"Area Locality_Palam Colony, Palam",8.315602985158649e-07
+"Area Locality_DDA Devdoot Apartment, Vikaspuri",8.264309483235936e-07
+"Area Locality_Aspire, Thakur Village, Kandivali East",8.251671244602318e-07
+"Area Locality_HDIL Metropolis, Andheri West",8.185004862461993e-07
+"Area Locality_Sinthan Nagar, Thanisandra",8.173344939139986e-07
+"Area Locality_Abbiareddy Layout, Kaggadasapura",8.136249247661592e-07
+Area Locality_Hindmotor,8.118017738347506e-07
+Area Locality_Uttarahalli,8.116814084112557e-07
+Area Locality_Nilgung Old Bazar,8.107600337441808e-07
+"Area Locality_Garden View Apartment, Aarey Milk Colony",8.011681876997978e-07
+Area Locality_Padmanabha Nagar,7.998996493275884e-07
+"Area Locality_Naveen Shahdara, Shahdara",7.878723757084756e-07
+"Area Locality_Omkar Ananta, Goregaon East",7.837455294613912e-07
+"Area Locality_Buddha Nagar Colony, Boduppal",7.832323227261884e-07
+Area Locality_BHEL,7.802027056489971e-07
+"Area Locality_Guindy Race Course, Guindy",7.778859504384514e-07
+"Area Locality_Madinaguda, Hafeezpet, NH 9",7.63753655499072e-07
+Area Locality_T.Nagar,7.62538387275342e-07
+Area Locality_Ajoy Nagar,7.547241930848347e-07
+Area Locality_Freedom Fighters Enclave,7.516511006014596e-07
+Area Locality_Mangadu,7.496655177798641e-07
+"Area Locality_Ratan Silicon Park, Jankalyan Nagar",7.450682437124795e-07
+Area Locality_Munirka,7.449282659522458e-07
+Area Locality_Kachohalli,7.407171451727684e-07
+Area Locality_Behala Chowrasta,7.400400043945873e-07
+Area Locality_Poonamalle,7.352075310625086e-07
+Area Locality_Bhajanpura,7.323553745073551e-07
+"Area Locality_Lodha Fiorenza, Goregaon East",7.307358249619317e-07
+Area Locality_Lake Town,7.2928438989001e-07
+Area Locality_Joka,7.229523015075374e-07
+Area Locality_Thakur Complex,7.206118044264996e-07
+"Area Locality_Alpine Apartments, Chembur East",7.178398365289225e-07
+Area Locality_Old Alwal,7.157334812300423e-07
+Area Locality_Gottigere Main Rd,7.146744572621206e-07
+"Area Locality_Amtala, Diamond Harbour Road",7.110276484128089e-07
+Area Locality_Bhandup Village,7.085027410106175e-07
+Area Locality_Kodigehalli,7.064451079828425e-07
+Area Locality_Mysore Road,7.060878385788712e-07
+Area Locality_Hari Nagar,6.995222390794563e-07
+"Area Locality_Bharthal, Dwarka",6.981199952235925e-07
+Area Locality_Shakarpur,6.975275078537664e-07
+Area Locality_Tri Nagar,6.971221597171381e-07
+Area Locality_Sriperumbudur,6.96865400866385e-07
+Area Locality_Sant Nagar,6.93334053415716e-07
+Area Locality_Janakpuri Block B1,6.925615536609884e-07
+Area Locality_Survey Park,6.888791869887084e-07
+"Area Locality_Ramaiah Layout, Kacharakanahalli",6.83507017113015e-07
+Area Locality_Ramamurthy Nagar,6.787141596897535e-07
+"Area Locality_Chandannagar, Hooghly-Chinsurah",6.703159430572748e-07
+Area Locality_Poisar,6.685039781441227e-07
+"Area Locality_Sangati Colony, Netaji Nagar",6.665111248253043e-07
+Area Locality_Arakere,6.644334189754905e-07
+Area Locality_Annapurneshwari Nagar,6.561953521550024e-07
+Area Locality_Malad West,6.561909189551751e-07
+"Area Locality_Ambattur Industrial Estate, Chennai Bypass Road",6.52304067667765e-07
+Area Locality_Bachupally,6.517100924156653e-07
+Area Locality_Begur Road,6.509634949354428e-07
+"Area Locality_Garia Station, Garia",6.426419323382172e-07
+Area Locality_Opposite andhra mahila sabha,6.417242668343855e-07
+"Area Locality_Chinar Park, Rajarhat",6.379716066086869e-07
+Area Locality_Vandalur,6.354820205120867e-07
+Area Locality_Malkajgiri,6.347410816518228e-07
+Area Locality_Paschim Vihar Block A6,6.300805590038591e-07
+Area Locality_IAS Colony,6.299733674915474e-07
+Area Locality_Mahavir Enclave Part 1,6.285915217727997e-07
+Area Locality_Bhalswa,6.274250757436753e-07
+"Area Locality_Altavista, Sion Trombay Road",6.208007368137962e-07
+Area Locality_Reay road east,6.195344500490329e-07
+Area Locality_Narayanguda,6.147960286644785e-07
+Area Locality_Girinagar,6.143494828878783e-07
+"Area Locality_Balkrishna, Goregaon East",6.140566976878433e-07
+Area Locality_Gajularamaram,6.119128401569407e-07
+"Area Locality_Gaurav Heights, Kandivali West",6.101796617322574e-07
+Area Locality_Amberpet,6.087554137124577e-07
+Area Locality_Ram nagar,6.065375395247254e-07
+"Area Locality_Gandhi Colony, Netaji Nagar",6.044740935563202e-07
+"Area Locality_Coffee Board Layout, Nagavara",6.030059967298964e-07
+"Area Locality_Sufalam CHS, Chembur East",6.012277120045128e-07
+"Area Locality_Maruthi Nagar-Kaggadasapura, Kaggadasapura",5.991762545586932e-07
+Area Locality_Periyamet,5.949335518837559e-07
+Area Locality_Paschim Barisha,5.944024908391931e-07
+"Area Locality_Thillai Ganga Nagar, Nanganallur",5.922506607058449e-07
+Area Locality_Old Washermanpet,5.918371846024903e-07
+Area Locality_Malancha,5.900059545659201e-07
+"Area Locality_Khanpur Extension, Sangam Vihar",5.867576970396552e-07
+"Area Locality_Safal Saraswati, Chembur",5.859870475624643e-07
+Area Locality_gg1 vikas puri,5.856605345410501e-07
+"Area Locality_Tambaram West, Tambaram, Chennai Bypass Road",5.770112562428852e-07
+Area Locality_Ekta Nagar,5.763949164310365e-07
+Area Locality_Kurla West,5.746078857874217e-07
+"Area Locality_Electronics City Phase 1, Electronic City",5.742751416685351e-07
+Area Locality_New Ashok Nagar,5.732882014898392e-07
+Area Locality_Mogappair East,5.662351573559849e-07
+Area Locality_Khardah,5.643240203452986e-07
+Area Locality_Sarita Vihar Pocket K,5.639201495000614e-07
+Area Locality_C V Raman Nagar,5.591526818707116e-07
+Area Locality_railway employees housing colony Bollarum,5.573663374760674e-07
+"Area Locality_Sikh Apartmentge, NH 7",5.55337004945257e-07
+Area Locality_Saki Vihar Road,5.519719595859358e-07
+"Area Locality_Rethibowli, Mehdipatnam",5.519090357804854e-07
+"Area Locality_Central Bank Colony, Chromepet",5.50913528540779e-07
+Area Locality_Patel Nagar West,5.466103218948042e-07
+Area Locality_Rmv Extension Stage 2,5.46171568182218e-07
+Area Locality_Manigunda,5.442616403782826e-07
+Area Locality_Krishna Nagar,5.441700253316617e-07
+"Area Locality_Sarat Ghosh Garden, Dhakuria",5.436915949730058e-07
+"Area Locality_Dheeraj Kiran CHS Walad West, Sunder Nagar",5.396436817942347e-07
+"Area Locality_Ahimsa Marg, Mindspace",5.371311645870348e-07
+"Area Locality_Raj Hill, Borivali East",5.338785201819992e-07
+Area Locality_Rohini Sector 3,5.33870305402826e-07
+Area Locality_Kalindi,5.239731058916519e-07
+Area Locality_Road no 3 banjara hills hyderabad 500035,5.228537802209689e-07
+Area Locality_Trimulgherry,5.180124249919085e-07
+"Area Locality_Madurdaha, Hussainpur",5.165076681516453e-07
+"Area Locality_Highway Park Apartment, Kandivali East",5.162318320364967e-07
+Area Locality_Medipally,5.142568182635065e-07
+Area Locality_safuipara,5.105393793640216e-07
+Area Locality_Baghajatin,5.075507566965217e-07
+Area Locality_Birati,5.06680722236627e-07
+"Area Locality_Lingampally-Serilingampally, NH 2 2",5.043898450522985e-07
+Area Locality_Babusapalya,5.028669010075395e-07
+"Area Locality_Hudco Living Point, Bhandup West",5.028373025945996e-07
+"Area Locality_Kohinoor Apartment, Kalkaji Extention",4.999931704329278e-07
+"Area Locality_Dhakuria -South East, Dhakuria",4.98642962809903e-07
+"Area Locality_Inder Puri Block A, Inder Puri",4.966560457736639e-07
+Area Locality_Rajarajeshwari Nagar,4.961882293381546e-07
+Area Locality_Anna Nagar East,4.9392693088704e-07
+Area Locality_Bagbazar,4.930639122114997e-07
+"Area Locality_Venkataramana Colony, Secunderabad",4.87261370131927e-07
+Area Locality_Varthur,4.860471458192112e-07
+"Area Locality_Syndicate Bank Colony, Arakere",4.801042274520864e-07
+"Area Locality_IGNOU Road, Saket",4.7652408340027423e-07
+Area Locality_Amrutahalli,4.73803622006182e-07
+"Area Locality_Sanath Nagar, NH 9",4.6998517034732183e-07
+Area Locality_Kapi Bagan Basti,4.69219944514639e-07
+"Area Locality_Srini kunj Anasuya Enclave, Lingampally, Kachiguda, Hyderabad",4.690538088811409e-07
+Area Locality_Pudupakkam,4.6635526437990426e-07
+Area Locality_Bommasandra,4.651713247627743e-07
+Area Locality_Konnagar,4.6174720363135743e-07
+Area Locality_Kolapakkam - Vandalur-Kelambakkam Road,4.5834449835638607e-07
+Area Locality_Dashadron Newtown Rajarhat,4.5761090893675744e-07
+"Area Locality_Baishnavghata patuli , house number s-300 Kolkata 700094",4.5587883727642025e-07
+"Area Locality_MHADA Century Mill, Prabhadevi",4.5369743373362704e-07
+"Area Locality_Hoodi, Hoodi",4.528742705728394e-07
+"Area Locality_Project Kaikhali, Vip Road",4.524115829142377e-07
+Area Locality_Polacheri,4.519613716070904e-07
+"Area Locality_Rbi Colony-Jayanagar, Jayanagar",4.4742753522068965e-07
+Area Locality_Airport Near Gate No. 21/2,4.469005167843469e-07
+"Area Locality_Everard Nagar Co Operative Housing Society, Sion East",4.4509151290056903e-07
+"Area Locality_Tellapur, Outer Ring Road",4.392115587389735e-07
+Area Locality_Keelkattalai,4.386741767679173e-07
+Area Locality_HRBR Layout Block 1,4.3670446067586063e-07
+Area Locality_Chilakalguda,4.307105215126746e-07
+"Area Locality_Habsiguda, NH 2 2",4.302789123737644e-07
+"Area Locality_Pocharam, Hyderabad near infosys",4.292727947879714e-07
+Area Locality_Shri Swami Samarth Nagar,4.2438704807730916e-07
+"Area Locality_Lodha Venezia, Parel",4.2370618753035243e-07
+Area Locality_Dina Bama Estate,4.230912466011075e-07
+Area Locality_New Nallakunta,4.228529537609967e-07
+"Area Locality_Madhavaram, Guntur Chennai Highway",4.2212770127134484e-07
+Area Locality_Jaitpur,4.214109259404029e-07
+Area Locality_Hyderabad,4.211736086873254e-07
+"Area Locality_Hillcrest, Andheri East",4.1846892861123374e-07
+"Area Locality_Panduranga Nagar, bannerghatta main Road",4.176496484323592e-07
+"Area Locality_Viswas Park, Matiala",4.0474978434600113e-07
+"Area Locality_Kotla Mubarakpur, South Extension",4.045946642812438e-07
+Area Locality_Qutub Shahi Tombs,4.010513257007806e-07
+"Area Locality_Pocharam, NH 2 2",4.0045207347796234e-07
+"Area Locality_Conwood Astoria, Goregaon East",3.98693992524533e-07
+Area Locality_KTR Colony,3.9663965318372367e-07
+Area Locality_Hbr Layout,3.9648085190243597e-07
+"Area Locality_East Of Ngef Layout, Bennigana Halli",3.952018129705902e-07
+Area Locality_aparna sarovar grande,3.9159517397685583e-07
+"Area Locality_Gangaram Vatika, Vishnu Garden",3.910439942485327e-07
+Area Locality_Falt,3.8675485811497804e-07
+Area Locality_Bijoygarh,3.8347775000184704e-07
+Area Locality_Hastsal,3.829230950963283e-07
+Area Locality_Rajarhat,3.804614913303063e-07
+Area Locality_Mylasandra,3.7986031369508036e-07
+Area Locality_Borabanda,3.7947056145693994e-07
+Area Locality_Tiruvottiyur,3.785306208939806e-07
+"Area Locality_V3s East Centre, Laxmi Nagar",3.781225419513821e-07
+"Area Locality_Sindhi Society, Chembur",3.77352124707661e-07
+Area Locality_RTC Colony-Chandanagar,3.7577579694758205e-07
+"Area Locality_Venkatpura, HSR Layout",3.753972480548918e-07
+Area Locality_Thalambur,3.7430856206973854e-07
+"Area Locality_Survey park, Santoshpur, kolkata",3.7399638121081574e-07
+Area Locality_Sodepur,3.7264739421500763e-07
+Area Locality_Jafferkhanpet,3.7151631100798153e-07
+Area Locality_Poonamallee,3.6866829839324256e-07
+"Area Locality_Parnashree Lake, Behala",3.6489691101044387e-07
+Area Type_Built Area,3.6378567425166273e-07
+Area Locality_Chandrayanguttabalguda,3.6377378706664715e-07
+Area Locality_Mugalivakkam,3.6174861261392124e-07
+Area Locality_Parle Colony,3.601544067547446e-07
+Area Locality_Adikmet,3.570337156181702e-07
+"Area Locality_Thakurpukur, Kolkata",3.5514617258016583e-07
+Area Locality_Barasat,3.550598847854318e-07
+Area Locality_Sonarpur,3.5170713742374857e-07
+"Area Locality_Nallurhalli, Whitefield, Borewell Road",3.500781591416924e-07
+Area Locality_Prakash Nagar,3.490233111530969e-07
+Area Locality_Bindapur,3.471480925924285e-07
+Area Locality_Mayur Vihar,3.461395570170432e-07
+Area Locality_Bhandup,3.450853906040421e-07
+Area Locality_Byatarayanapura,3.45067004837564e-07
+"Area Locality_Laxmi Nagar District Centre, Laxmi Nagar",3.44724205138765e-07
+Area Locality_Cmbt,3.443276154737921e-07
+Area Locality_AGS Colony-Velachery,3.438966821184954e-07
+"Area Locality_Green Park Apartment, Millat Nagar",3.436766578298127e-07
+Area Locality_Lal Baug,3.4277273458114826e-07
+"Area Locality_Bikasipura, kanakapura Road",3.4128853690176196e-07
+Area Locality_Nalagandla,3.402039342494476e-07
+Area Locality_Dharmapuri Colony,3.3923683316688504e-07
+Area Locality_Mehrauli,3.3906597076300905e-07
+"Area Locality_Sakuntala Park, Behala",3.3725909307620357e-07
+"Area Locality_Vishweshwaraiah Layout, Annapurneshwari Nagar",3.3063631471529537e-07
+Area Locality_Kambar Nagar-Kolathur,3.3010867321094004e-07
+Area Locality_Karmanghat,3.2631908101404325e-07
+Area Locality_Mukundapur,3.25461843527621e-07
+"Area Locality_Qutub Vihar, Dwarka",3.249267967666523e-07
+"Area Locality_Hyder Shah Kote, Chevella Road",3.1931954411301433e-07
+Area Locality_E M Bypass,3.1810857373002926e-07
+Area Locality_Perambur,3.173274751642641e-07
+"Area Locality_Rasoolpura, Mahatma Gandhi Road",3.1521066899882603e-07
+"Area Locality_Naktala, Garia",3.1380045985501426e-07
+Area Locality_Madanayakahalli,3.132839038244238e-07
+"Area Locality_Kudghat, Ashok Nagar",3.0819080129633517e-07
+"Area Locality_Raj Legacy, Vikhroli West",3.077447658585581e-07
+Area Locality_Kasi Estate,3.07229889377047e-07
+Area Locality_Pant Nagar,3.063488067742603e-07
+"Area Locality_VGP Seethapathy Nagar, Velachery",3.0394913989051397e-07
+Area Locality_Vijaya Puri Colony,3.033229451144597e-07
+"Area Locality_Rajakipakkam, Sembakkam",3.0299195349659544e-07
+Area Locality_Chembarambakkam,2.9883771370822734e-07
+"Area Locality_Aradhana Layout, Arakere",2.9867780465953114e-07
+Area Locality_Mayur Vihar 3,2.9720747353440234e-07
+Area Locality_Selaiyur,2.9695336325810607e-07
+"Area Locality_Kanakia Sanskruti, Thakur Complex",2.9476168596278275e-07
+Area Locality_Nahur Gaothan,2.941555140157255e-07
+"Area Locality_spring grove uno, Lokhandwala Twp",2.9293753479449623e-07
+Area Locality_Avadi,2.8853134233297035e-07
+Area Locality_Rohini Sector 17,2.8826230778614935e-07
+"Area Locality_Lake Bloom, Powai",2.881760923449338e-07
+Area Locality_Secunderabad,2.8777448979669015e-07
+Area Locality_Kodungaiyur East,2.87535611097254e-07
+Area Locality_Karihobanahalli,2.869971960952333e-07
+"Area Locality_Shiva Enclave, Paschim Vihar",2.8604676836412e-07
+Area Locality_Nandivaram-Guduvancheri,2.853142271656716e-07
+"Area Locality_Baishnabghata Patuli Township, Patuli",2.851715548742599e-07
+"Area Locality_Tagore Garden, Rajouri Garden, Najafgarh Road",2.847654956005215e-07
+Area Locality_Karapakkam,2.8467097075860815e-07
+Area Locality_Doddaballapur Road,2.8415616504355744e-07
+"Area Locality_Fateh Nagar, Janakpuri",2.805452066072163e-07
+Area Locality_north chajjupur shahdara,2.799538377612606e-07
+"Area Locality_Devi Karumariamman Nagar, Velachery",2.758082286125668e-07
+"Area Locality_Koti, NH 9",2.754438647015459e-07
+Area Locality_Pul Prahlad Pur,2.7465535629454474e-07
+Area Locality_Banashankari,2.739602056639956e-07
+Area Locality_Sembakkam,2.7393170328195985e-07
+"Area Locality_Saidabad Colony, Sayeedabad",2.670285752527904e-07
+Area Locality_Balapur,2.642268125432519e-07
+Area Locality_Musheerabad,2.639730367804346e-07
+Area Locality_Raghuvanahalli-Bcmc Layout,2.6352276600590366e-07
+Area Locality_Jadavpur,2.627344110352999e-07
+"Area Locality_Anand Nagar-Khairatabad, NH 7",2.613741069298507e-07
+Area Locality_Rohini Sector 4,2.59989403802804e-07
+"Area Locality_Geeta Colony PRWS Block 3 And 7, Rajgarh Colony",2.5909901439533675e-07
+Area Locality_Kovilambakkam,2.579071416209062e-07
+Area Locality_Kailasapuram-Mylapore,2.5774980795261585e-07
+Area Locality_Brahmapur,2.571691299126692e-07
+Area Locality_Sithalapakkam,2.532214237844627e-07
+Area Locality_Ghatla,2.5229302668448305e-07
+"Area Locality_Mallasandra, Jalahalli West",2.5099983164571464e-07
+Area Locality_Kodigenahalli,2.503548015605464e-07
+Area Locality_Akkineni Homes Yousufguda,2.498819821420575e-07
+Area Locality_Hooghly,2.494908213039474e-07
+Area Locality_filmnagar. hydrabad,2.4673521179160887e-07
+Area Locality_Kengeri Main Road,2.46731345043546e-07
+Area Locality_Cox Town,2.461129069610386e-07
+Area Locality_Hormavu Ring Road,2.4401268893963597e-07
+Area Locality_Baruipur,2.438894273552775e-07
+"Area Locality_Omkar Ananta, Film City Road",2.4313812910651157e-07
+Area Locality_Bommanahalli,2.402728390100158e-07
+"Area Locality_Old Malakpet, NH 9",2.3652324788632887e-07
+Area Locality_Palam Extension,2.3618373318707117e-07
+"Area Locality_Srishti Solitaire, Bhandup Industrial Estate",2.3401613044712468e-07
+"Area Locality_Haridevpur, Paschim Putiary",2.3399077857956219e-07
+Area Locality_Ramchandrapuram Mandal,2.3347877064740256e-07
+"Area Locality_Anandapuri, Barrackpore",2.3312855885013963e-07
+Area Locality_Entally,2.3219285515633112e-07
+Area Locality_Purasaiwakkam,2.3119153416171574e-07
+"Area Locality_Mythri Nagar, Hafeezpet, NH 9",2.289647885750882e-07
+"Area Locality_Srinagar, Banashankari",2.2848013732432636e-07
+"Area Locality_Dr.Shivaram Karanth Nagar, Jakkuru",2.2758490993302566e-07
+Area Locality_Vikash Nagar,2.2709155925446325e-07
+Area Locality_Shamirpet,2.268519520863126e-07
+Area Locality_Semmancheri,2.248684037844747e-07
+"Area Locality_Guddadahalli, Mysore Road",2.2396438352175376e-07
+Area Locality_Rohini Sector 21,2.214867086721944e-07
+"Area Locality_Kalpataru Towers, Akurli Nagar",2.2130641111248157e-07
+"Area Locality_A Narayanapura, Mahadevapura",2.197836749102962e-07
+Area Locality_Nagvarpalya Main Road,2.1930627258404444e-07
+Area Locality_Ejipura,2.1913260633457784e-07
+Area Locality_Pattabiram,2.1342242474606447e-07
+Area Locality_Koyambedu,2.1319282920229212e-07
+Area Locality_Santoshpur - EM Bypass,2.1308150701039327e-07
+Area Locality_Kudlu Gate,2.119098833110821e-07
+Area Locality_shanti kutir tunga village powai,2.1163264520992445e-07
+Area Locality_Sultanpur,2.11351334034771e-07
+"Area Locality_Singasandra, Hosur Road",2.1033540631535828e-07
+"Area Locality_Hegde Nagar, R.K.Hegde Nagar",2.0930630811973056e-07
+Area Locality_Ammenpur,2.0750003243656987e-07
+Area Locality_Ponniammanmedu,2.0714837719960905e-07
+"Area Locality_Chamundi Nagar, Rajajinagar",2.0436609383245796e-07
+"Area Locality_Anandbagh, Secunderabad, Moula Ali Road",2.0314499829795777e-07
+"Area Locality_Halisahar Station Road, Kanchrapara",2.0109405717562048e-07
+"Area Locality_Ganesh Nagar, Tilak Nagar",1.9720517561528865e-07
+Area Locality_Ramapuram,1.957985333312174e-07
+"Area Locality_Kattupakkam, PH Road",1.9399843806849975e-07
+"Area Locality_Hoodi Circle, Hoodi",1.9386074925951216e-07
+"Area Locality_Kadugondanahalli, Kadugondanahalli",1.9263597516278257e-07
+Area Locality_JL Tambe Nagar,1.9179967904583093e-07
+Area Locality_Moti Nagar,1.8997431947753324e-07
+Area Locality_Kithiganur,1.888483801031009e-07
+Area Locality_Chennai,1.884330068602956e-07
+Area Locality_Dwarka Sector 7,1.8825912885083671e-07
+Area Locality_Bheeram guda,1.8737845090985152e-07
+"Area Locality_Abids, NH 7",1.831712317670198e-07
+"Area Locality_Keshav Puram, Tri Nagar",1.8288719014479784e-07
+"Area Locality_Vv Nagar, Bikasipura",1.8284589733502317e-07
+Area Locality_Tharamani,1.8223840284236455e-07
+Area Locality_Tollygunge,1.8095836977976354e-07
+Area Locality_Kengeri Upanagara,1.8030341477638893e-07
+Area Locality_Washermanpet,1.7715390909912304e-07
+Area Locality_Rohini Sector 23,1.7715380928089534e-07
+Area Locality_Bandari Layout,1.7593138551551035e-07
+Area Locality_Kilpauk,1.7525049154669573e-07
+Area Locality_Hutchins Road,1.7474826559494073e-07
+"Area Locality_Shrachi Village, Madhyam Gram",1.728021123915908e-07
+Area Locality_Upperpally,1.727720117953021e-07
+Area Locality_Majarhati,1.7174027974282998e-07
+Area Locality_Vinayaka Nagar,1.7045279378327518e-07
+Area Locality_Pallavan Nagar-Thiruverkadu,1.6984900642947765e-07
+"Area Locality_Gandhamguda, Bairagiguda",1.6937958133093716e-07
+"Area Locality_Mallathahalli, Outer Ring Road",1.6804700539761144e-07
+"Area Locality_Maruthi Nagar-Yelahanka, Yelahanka",1.6493505238591418e-07
+Area Locality_Rohini Sector 2,1.642756614531075e-07
+Area Locality_Krishna Nagar Block D,1.6414143381841517e-07
+"Area Locality_Chowdeshwari Layout, Yelahanka",1.641371732044346e-07
+"Area Locality_Uttam Society, Chembur",1.6392771122797322e-07
+Area Locality_Mansa Ram Park,1.6342388151969372e-07
+"Area Locality_Khanpur, Madangir",1.6330783165016943e-07
+Area Locality_Dwarka Sector 8,1.6327431925930233e-07
+"Area Locality_Ram Nagar South Extension, Madipakkam",1.618055788328059e-07
+"Area Locality_Jp Nagar Phase 1, J P Nagar",1.616428932134999e-07
+Area Locality_Vile Parle,1.6019623572029751e-07
+Area Locality_Vivekanathanagar kolathur,1.5963547689589557e-07
+Area Locality_Bandel,1.5914798397060103e-07
+Area Locality_Babusahib Palya,1.5876399899115978e-07
+"Area Locality_Wadhwa Atmosphere, Mulund West",1.5563372088792518e-07
+Area Locality_Prashanth hills,1.5558211292634642e-07
+Area Locality_Attibele,1.5516109580723997e-07
+Area Locality_Prem nagar-Erragadda,1.54761338605083e-07
+"Area Locality_Korattur, Jawaharlal Nehru Road",1.5278125454402802e-07
+Area Locality_Basava Nagar,1.5269772232900597e-07
+Area Locality_Maduravoyal,1.5079846993073934e-07
+"Area Locality_Shenoy Nagar, PH Road",1.504955521870751e-07
+Area Locality_Indira Colony,1.4953856493991155e-07
+Area Locality_Kengeri,1.4904827080214163e-07
+Area Locality_Sion Hospital Colony,1.4883222892189136e-07
+"Area Locality_Balaji Gardens Layout, Gottigere",1.484585626367664e-07
+Area Locality_Ram Nagar,1.4792744155473515e-07
+"Area Locality_Indis VB CITY, Bollaram railway station",1.4574814295749857e-07
+"Area Locality_Nirankari Colony, Mukherjee Nagar",1.4491959387432645e-07
+Area Locality_Kyalasanahalli,1.441691440630123e-07
+Area Locality_T Dasarahalli,1.4208713304926397e-07
+Area Locality_Shamshabad,1.4178134243465524e-07
+Area Locality_Attiguppe,1.4158381886261677e-07
+Area Locality_B-7 veer Singh colony Budh vihar phase 2 delhi,1.4146654250112254e-07
+Area Locality_B.Narayanapura,1.4010090031964832e-07
+Area Locality_S.Kolathur,1.3949327397547358e-07
+"Area Locality_Sai Colony, Krishnarajapura",1.3894351690813438e-07
+Area Locality_Ragavendra Nagar,1.3867336751405743e-07
+"Area Locality_Gaurav Apartment, Indraprastha Extension, Patparganj",1.3833531061664315e-07
+Area Locality_Thakurpukur,1.3393840868633676e-07
+Area Locality_Burari,1.3391406861964677e-07
+Area Locality_Gharoli,1.3372140830187808e-07
+"Area Locality_Yelachenahalli, Kumaraswamy Layout, Kanakapura Road",1.3282994142287665e-07
+Area Locality_Lado Sarai,1.3257121905613465e-07
+Area Locality_Basaveshwar Nagar,1.3227815379815604e-07
+Area Locality_villvam towers tnhb colony,1.3144369485584055e-07
+Area Locality_Sukchar,1.3094670102480135e-07
+"Area Locality_Vishwapriya Nagar, Begur",1.2977801370979104e-07
+Area Locality_Garia Dhalua Nabapally,1.2791584944274285e-07
+Area Locality_Film Nagar,1.270924549774162e-07
+Area Locality_Kalkere,1.267989679050384e-07
+Area Locality_New Mallepally,1.252814964333007e-07
+Area Locality_Mahavir Nagar,1.2430125177364668e-07
+Area Locality_Kamala Nagar,1.2352472433044118e-07
+Area Locality_Sarsuna,1.2326578023487626e-07
+"Area Locality_Panchanan Tola, Thakurpukur",1.2240615094163105e-07
+Area Locality_Peera Garhi,1.2222881971290018e-07
+Area Locality_Aruna Colony,1.2197255325295336e-07
+Area Locality_Devi Pada,1.203177793134257e-07
+"Area Locality_Hafeezpet, NH 9",1.1769561971010552e-07
+"Area Locality_Manali, Manali High Road",1.1762653403304232e-07
+Area Locality_N G O nagar extn ponneri,1.1673642393655585e-07
+"Area Locality_Shakarpur Khas, Shakarpur",1.1649943516709163e-07
+Area Locality_Natunhat,1.1589585035659055e-07
+"Area Locality_Kumarpara, Narendrapur",1.1549413727034815e-07
+Area Locality_Hegganahalli,1.1534461339179366e-07
+Area Locality_Yelahanka Dodda Ballapur Road,1.1509667218779197e-07
+Area Locality_Purbasa,1.1507004107247313e-07
+Area Locality_sra,1.1505016192324682e-07
+Area Locality_Govindpuri Main,1.144313974251925e-07
+"Area Locality_Bhogal, Jangpura",1.141761613592124e-07
+Area Locality_Kasba -East,1.1407371761658432e-07
+Area Locality_Abbigere,1.1403253775184487e-07
+"Area Locality_Dodda Banaswadi, Banaswadi",1.1370471319977078e-07
+Area Locality_Shrikrupa Society,1.1307927774392293e-07
+Area Locality_My Own House,1.1232028057545896e-07
+Area Locality_Pachaiyamman Nagar,1.1041238391095409e-07
+Area Locality_Jalladian Pet,1.101594320564267e-07
+"Area Locality_Villivakkam, Jawaharlal Nehru Road",1.0995171374846012e-07
+Area Locality_Nagarabhavi,1.0956067948432172e-07
+Area Locality_in Syed Ali Guda,1.0858334721625682e-07
+"Area Locality_Netaji Nagar Colony, Langar Houz",1.0800880888582347e-07
+Area Locality_kumari neo town,1.0778115408095596e-07
+Area Locality_Mahipalpur,1.0676730548564233e-07
+Area Locality_Nacharam,1.067402448461844e-07
+Area Locality_HMT Swarnapuri Colony,1.0648078186740173e-07
+Area Locality_Basaveshwara Layout,1.0575939580157325e-07
+"Area Locality_Gayatri Hills, Jubilee Hills",1.0558800308594417e-07
+Area Locality_Rock Town Colony,1.0521931621356717e-07
+"Area Locality_Virat Nagar, Bommanahalli",1.05175868691119e-07
+Area Locality_Dwarka Sector 23,1.0493630802667765e-07
+"Area Locality_Moosarambagh, NH 9",1.0353225759836162e-07
+Area Locality_Nimbekaipura,1.0332277552904926e-07
+Area Locality_Nesapakkam,1.0288130261355296e-07
+"Area Locality_Pathar Gatti, NH 7",1.0270792816241645e-07
+Area Locality_snv la,1.0187787493648177e-07
+"Area Locality_Shamanna Garden, Wilson Garden",1.014565620532105e-07
+"Area Locality_Vengaivasal, Medavakkam",1.0059632053060443e-07
+Area Locality_Old Nallakunta,1.0032371304699814e-07
+Area Locality_Sagar Pur,9.99027323883186e-08
+Area Locality_Sudarshan Park,9.989852676755616e-08
+"Area Locality_Bharathidasan Colony, KK Nagar",9.857846300410568e-08
+Area Locality_Rangpuri,9.813654986958215e-08
+Area Locality_Manneguda,9.801014832276064e-08
+Area Locality_Bhuvaneswari Nagar,9.782239239961672e-08
+Area Locality_Jhangir Puri,9.714709206167177e-08
+"Area Locality_Gulmohar Park Colony, Serilingampally",9.505530475151679e-08
+"Area Locality_Jai laxmi Apartments, Indraprastha Extension, Patparganj",9.48314262198851e-08
+Area Locality_Belghoria,9.476815649402746e-08
+"Area Locality_Devli, Sangam Vihar",9.465647899585763e-08
+"Area Locality_Maruthi Extesnion, Rajajinagar",9.463606990664648e-08
+"Area Locality_Ananda Puram, Jeevan Bima Nagar",9.448944496302853e-08
+"Area Locality_Srishti Elegance, Bhandup West",9.417605754129547e-08
+Area Locality_Airport Road,9.157135308435144e-08
+"Area Locality_Jeevan Bima Nagar, Airport Road",9.132290967767373e-08
+Area Locality_sarsuna banerjee para,9.096174145972307e-08
+Area Locality_5-20 Adharshnagar,9.080138790641129e-08
+"Area Locality_Sukhpally, Haltu",9.078474180978666e-08
+Area Locality_Punyabhoomi Layout,9.070159022572726e-08
+Area Locality_Sunkadakatte,8.882946450128951e-08
+Area Locality_Padapai,8.879703463049189e-08
+"Area Locality_Dilsukh Nagar, NH 9",8.83939888170603e-08
+Area Locality_Nagappa Reddy layout-Dooravani Nagar,8.735777897883904e-08
+"Area Locality_Vivek Nagar, Garfa",8.671467661464032e-08
+"Area Locality_Chhattarpur Enclave Phase1, Chhattarpur",8.670018377084512e-08
+"Area Locality_Chamundeshwari Layout, Arakere",8.663944280218181e-08
+"Area Locality_New Garia Metro, New Garia",8.642390308611142e-08
+"Area Locality_Jaya Nagar Block 5, Jayanagar",8.613365058658961e-08
+Area Locality_Whitefield,8.586888367351379e-08
+Area Locality_Adugodi,8.573736679815089e-08
+"Area Locality_Model Town Colony, Nawab Saheb Kunta",8.452454391012672e-08
+Area Locality_Adarsh Nagar,8.383885150801079e-08
+"Area Locality_Ponniamman Nagar, Iyyappanthangal",8.360646924311313e-08
+Area Locality_58 block,8.360198300708261e-08
+"Area Locality_Maidan Garhi, Chhattarpur",8.35612271443114e-08
+"Area Locality_Thanikachalam Nagar, Ponniammanmedu",8.211488658893151e-08
+"Area Locality_Ashoka Enclave Apartment, Dwarka Sector 11",8.204601445586635e-08
+Area Locality_Konanakunte,8.196388575802737e-08
+Area Locality_Begur,8.181041671581436e-08
+Area Locality_Gurramguda balaj homes p no 4,8.146726574983283e-08
+Area Locality_LIG Colony,8.134093940930763e-08
+"Area Locality_Godavari Homes, Quthbullapur",8.124308941500312e-08
+"Area Locality_Baby Nagar Extention, Velachery",8.121111388907519e-08
+"Area Locality_N.S.C Bose Road (Near Ushagate), New Alipore",8.06225391642587e-08
+"Area Locality_Bedarahalli, Magadi Road",7.99273155716002e-08
+Area Locality_Hosur Road,7.990081523525637e-08
+"Area Locality_Bhagya Nagar Colony, Secunderabad",7.977062523000606e-08
+"Area Locality_Indra Nagar, Moti Nagar",7.875096121721323e-08
+Area Locality_Battarahalli,7.823105816633369e-08
+"Area Locality_Laxminarayana Layout, Munnekollal",7.707734845424835e-08
+Area Locality_Petbasheerabad,7.676650580981777e-08
+Area Locality_dwarka sector 8 Raj Nagar extension part 2,7.646773735650086e-08
+Area Locality_sspdl Mayfair,7.582132251678388e-08
+"Area Locality_Padmarao Nagar, Hyderabad-Karimnagar Highway",7.579735922770431e-08
+Area Locality_chakala andheri east,7.559650735883439e-08
+"Area Locality_New Boiguda, Boiguda",7.505622004557814e-08
+Area Locality_Aduru,7.440167292669491e-08
+Area Locality_CBI Colony,7.437905563856792e-08
+"Area Locality_Kalabagan, Tollygunge",7.378532520597872e-08
+Area Locality_Ullal Main Road,7.363187823350667e-08
+Area Locality_Anjanapura,7.310562305338129e-08
+Area Locality_Chintadripet,7.274704005781218e-08
+"Area Locality_Ullagaram, Pallavaram-Thuraipakkam Road",7.216800658375086e-08
+Area Locality_Subramanyapura,7.161349254061796e-08
+Area Locality_Nagole,7.09288893113156e-08
+Area Locality_Karanai,7.087816120648049e-08
+Area Locality_Radhey Shyam Park,7.010751359058892e-08
+Area Locality_700051,6.998149520516355e-08
+Area Locality_Kadugodi Pattalamma Layout,6.919155295764304e-08
+Area Locality_Tiruvallur,6.834965704991684e-08
+Area Locality_Dhulapally,6.831293311242746e-08
+Area Locality_Nawab Saheb Kunta,6.766034161386727e-08
+Area Locality_rishi aurobindo sarani neat NIOH hospital,6.757018574592317e-08
+"Area Locality_Wadhwa Atmoshphere, Mulund West",6.734630690673433e-08
+"Area Locality_Malleshpalya, Kaggadasapura",6.72362905342607e-08
+Area Locality_Sikkarayapuram,6.704294888948609e-08
+Area Locality_Munnekollal,6.683554126586345e-08
+"Area Locality_Mallampet, Outer Ring Road",6.637131659211355e-08
+Area Locality_5000,6.628283490617698e-08
+Area Locality_Bhoiwada,6.611672634156614e-08
+Area Locality_Kempapura Agrahara,6.58540728147221e-08
+Area Locality_Bagalakunte,6.565361586824249e-08
+Area Locality_chettipunniyam,6.492284305910587e-08
+Area Locality_Nelamangala,6.485948887059109e-08
+"Area Locality_Chikbasavnapura, Krishnarajapura",6.359722116461568e-08
+"Area Locality_Srinivasa Colony, Secunderabad",6.321863443077188e-08
+"Area Locality_Aecs Layout-Singasandra, Singasandra, Hosur Road",6.295587167855848e-08
+"Area Locality_Kammagondahalli, Jalahalli",6.258151443384839e-08
+"Area Locality_Luz, Mylapore",6.190450988784878e-08
+Area Locality_Dhakuria,6.190255919770107e-08
+Area Locality_Dwarka Sector 23B,6.187322408050854e-08
+Area Locality_Thirumazhisai,6.172283346886016e-08
+Area Locality_JAR Shikara,6.03241886172856e-08
+Area Locality_New Perungalathur,6.015557976842426e-08
+"Area Locality_Bydara Halli, Benson Town",6.004726060861988e-08
+"Area Locality_Hosa Road, off Hosur Road",5.986669595988436e-08
+Area Locality_Peeramcheru,5.986149289758546e-08
+Area Locality_Bandam Kommu,5.847574387695384e-08
+Area Locality_Palam - Dabri Marg,5.84693525341246e-08
+Area Locality_Garfa,5.8235113553592e-08
+"Area Locality_Teghoria, Baguiati",5.7863691046798794e-08
+Area Locality_Nungi More,5.774614920043639e-08
+"Area Locality_Srinivasa Nagar-Banashankari, Banashankari",5.754252484968915e-08
+Area Locality_Chikkalasandra,5.75406753138352e-08
+"Area Locality_Bangur Avenue, Lake Town",5.753115763663381e-08
+"Area Locality_New Nagole Colony, Kothapet",5.718748507761806e-08
+"Area Locality_Jeevanhalli, Cox Town",5.65384589498006e-08
+Area Locality_Basavanapura,5.6350343487229046e-08
+Area Locality_Ananth Nagar,5.62005569827432e-08
+Area Locality_Kogilu,5.619336916068256e-08
+"Area Locality_Greenfields CHS, Andheri East",5.617653103721892e-08
+Area Locality_Hosakerehalli,5.603435214020392e-08
+"Area Locality_Vyalikaval, Malleshwaram",5.5526015457346545e-08
+"Area Locality_AH Block, Salt Lake",5.537373008466583e-08
+Area Locality_Geeta Colony,5.439935950119528e-08
+Area Locality_Medahalli,5.4234822903682324e-08
+Area Locality_Tata Nagar,5.396978880389373e-08
+Area Locality_Thambuchetty Palya,5.382310275669802e-08
+Area Locality_Ranikuthi Telephone Exchange,5.377631494963304e-08
+"Area Locality_Sitaphalmandi, Padmarao Nagar",5.3665392687697093e-08
+Area Locality_Khanapur,5.2268590506206204e-08
+"Area Locality_Tulip at Runwal Forests, Kanjurmarg West",5.225440742158639e-08
+"Area Locality_New Mahavir Nagar, Tilak Nagar",5.1649796555352e-08
+"Area Locality_Bidhan Pally, Bansdroni",5.146168973306591e-08
+"Area Locality_Vetri Nagar, Perambur",5.142402502729273e-08
+Area Locality_Jawahar Nagar,5.1269021518692375e-08
+Area Locality_Hesaraghatta Main Road,5.062598394879333e-08
+Area Locality_Ambattur railway station,5.0262532357075435e-08
+Area Locality_Margondanahalli,5.019285270849437e-08
+Area Locality_Pancha Sayar,4.908533186242986e-08
+Area Locality_Chitlapakkam,4.8642380062615556e-08
+Area Locality_Ponmar,4.852225300837585e-08
+"Area Locality_Aditya Nagar-Vidyaranyapura, Vidyaranyapura",4.84491506030134e-08
+"Area Locality_Jaya Nagar Block 7, Jayanagar",4.791166341899617e-08
+"Area Locality_Doddanekundi, Kartik Nagar",4.764802462470504e-08
+Area Locality_Dum Dum Cantonment,4.738766741279661e-08
+"Area Locality_Moodalaplya, Vijayanagar",4.722348812976524e-08
+"Area Locality_Udayanagar Extension, Mahadevapura",4.7119365754036803e-08
+Area Locality_Thirumullaivoyal,4.709666681237845e-08
+"Area Locality_Kukatpally Housing Board Colony, NH 9",4.6907429643915206e-08
+Area Locality_Pusa Institutional Area,4.644386773276057e-08
+"Area Locality_Subhash Nagar, Secunderabad",4.6196222836726644e-08
+"Area Locality_Peerzadiguda, NH 2 2",4.579719666765437e-08
+"Area Locality_Chuchangatta Colony, J P Nagar",4.579561902736628e-08
+Area Locality_Gunjur,4.4285618032573844e-08
+"Area Locality_Radha Nagar, Chrompet",4.4268952354846674e-08
+"Area Locality_Ask Nagar, Adambakkam",4.4148554060692416e-08
+Area Locality_Banu Nagar,4.409602439763676e-08
+Area Locality_chatana,4.396286594456279e-08
+"Area Locality_Chikkalasandra, Bangalore",4.329262167760022e-08
+"Area Locality_Rmv Extension, Armane Nagar",4.322958582705058e-08
+"Area Locality_Rabindra Pally, Keshtopur",4.300153328187756e-08
+"Area Locality_Sai Raghavendra Colony, uppal",4.278397420780716e-08
+Area Locality_Agrahara Layout,4.2753751699731876e-08
+Area Locality_Peenya 2nd Stage,4.2741461704641584e-08
+"Area Locality_Jamia Nagar, Okhla",4.241739937783306e-08
+Area Locality_Nri Layout,4.209643572443366e-08
+Area Locality_Dwarka Sector 14,4.180073489865813e-08
+Area Locality_Mandirtala,4.1783359444894695e-08
+"Area Locality_Alapakkam, Porur",4.157275986975305e-08
+"Area Locality_Kereguddadahalli, chikkabanavara Bangalore",4.0519741051930453e-08
+"Area Locality_Chintal, NH 7",4.03585875835907e-08
+Area Locality_Airport Area,3.92196934254902e-08
+Area Locality_Sarojini Nagar,3.9119457683940245e-08
+Area Locality_Tannery Road,3.79743342196328e-08
+Area Locality_Anantapura,3.7913401330158106e-08
+Area Locality_Camp Road,3.790221064434199e-08
+"Area Locality_Padmanabha Nagar, Mehdipatnam",3.7840118559190404e-08
+"Area Locality_Picnic Garden, E M Bypass",3.7717769506294816e-08
+"Area Locality_Kanaka Durga Colony, Gudimalkapur",3.728404688816126e-08
+Area Locality_Horamavu kelkkeri road,3.7146909046753336e-08
+Area Locality_New town near ecopark .,3.704788252606963e-08
+Area Locality_Vaderahalli,3.560492414414763e-08
+"Area Locality_Dinnur, Hebbal",3.4921584992785784e-08
+Area Locality_Ponneri,3.469218349637893e-08
+Area Locality_Hyderabad Shah Guda,3.428641521145537e-08
+"Area Locality_Ms Palya, Vidyaranyapura",3.415977875907001e-08
+"Area Locality_Hmt Layout Block 4, Vidyaranyapura",3.38111970160245e-08
+"Area Locality_Mappedu, Selaiyur",3.35520157037189e-08
+"Area Locality_Attur Layout, Yelahanka New Town",3.343636011088429e-08
+Area Locality_Dellapur,3.335016455142703e-08
+Area Locality_Vidya Nagar,3.301985447166778e-08
+"Area Locality_Iyyappanthangal Bus Stop, Iyyappanthangal, PH Road",3.29320980693635e-08
+"Area Locality_KK Nagar West, KK Nagar",3.2457144615685e-08
+Area Locality_Ram Bagh Colony,3.112295408355018e-08
+Area Locality_Manikandan Nagar,3.082783733912512e-08
+"Area Locality_Bansdroni Mauza, Krishnanagar",3.0743738776642004e-08
+Area Locality_New Thippasandra,3.0238759215007915e-08
+Area Locality_Mannivakkam,2.978166802801307e-08
+Area Locality_Mailasandar,2.9616173662563913e-08
+Area Locality_355 konnur highroad Ayanavaram,2.9524348986011938e-08
+Area Locality_Sheikh Sarai,2.9213494776773742e-08
+Area Locality_Thiruneermalai,2.89010202770098e-08
+Area Locality_Choodasandra,2.8384088086906328e-08
+Area Locality_New Kumaran Nagar,2.80195183527297e-08
+"Area Locality_Dooravani Nagar, Dooravani Nagar",2.7852603975337412e-08
+Area Locality_Tambaram Sanatorium,2.7194208844518615e-08
+Area Locality_Near DumDum Metro,2.7067998186486923e-08
+Area Locality_South Baksara,2.685896440637068e-08
+Area Locality_Mogappair West,2.6816810733975198e-08
+Area Locality_Em Bypass South East,2.6632725565812052e-08
+"Area Locality_Nobo Nagar, Kalena Agrahara",2.646596629877431e-08
+Area Locality_Varanasi,2.6451694163139882e-08
+Area Locality_Yemalur,2.6061545224847833e-08
+"Area Locality_Kumaraswamy Layout, Kumaraswamy Layout",2.5992730418140266e-08
+"Area Locality_Purbasan, Thakurpukur",2.565693536319869e-08
+"Area Locality_Silpara, Purba Barisha",2.533763467816231e-08
+Area Locality_Btm Layout Stage 4,2.5052879873820937e-08
+Area Locality_Kestopur,2.4974201556240118e-08
+"Area Locality_Marutinagar,",2.4941147794447556e-08
+Area Locality_Jyangra,2.4883114420636183e-08
+Area Locality_Chanchalguda,2.4822555464148297e-08
+Area Locality_Tiljala Road,2.4670793154285592e-08
+"Area Locality_Karambakkam, Porur",2.464319114930176e-08
+"Area Locality_Bollaram, Outer Ring Road",2.4487560392109782e-08
+"Area Locality_Gubbalala, Subramanyapura",2.442089069879533e-08
+"Area Locality_Singaperumal Koil, Tiruchi Chennai Highway",2.4108603015685826e-08
+Area Locality_Chamrajpet,2.3718614588141177e-08
+Area Locality_Kasturi Nagar,2.3645327690880967e-08
+Area Locality_Ramaswami Palya kammanhalli,2.3643539448788272e-08
+"Area Locality_Safilguda, Secunderabad",2.3615230793471762e-08
+Area Locality_Arcot Road Virugambakkam,2.3516237010899696e-08
+Area Locality_Singahalli,2.346490169230742e-08
+Area Locality_New Barrakpur,2.3425618937093998e-08
+"Area Locality_Baljit Nagar, Patel Nagar",2.262239280207776e-08
+Area Locality_Gwachiwali,2.2510351494572566e-08
+"Area Locality_Manak Vihar, Anand Vihar",2.237733228317716e-08
+Area Locality_BRAHMAPUR NEAR BANSDRONI,2.1904426501864075e-08
+Area Locality_Century Bazaar,2.16872081021621e-08
+"Area Locality_Potheri, Kattankulathur",2.16378766574985e-08
+Area Locality_Sai Nagar-Uppal,2.14189788093045e-08
+"Area Locality_RE Nagar, Porur",2.1403366198515443e-08
+Area Locality_Liluah,2.1355806770526096e-08
+"Area Locality_Jaya Nagar, Porur, Chennai Bypass Road",2.1340218394826533e-08
+Area Locality_Kudlu,2.1062957657157242e-08
+Area Locality_Madhura Nagar-Nizampet,2.0781548417648837e-08
+Area Locality_Patelguda,2.0751101680299224e-08
+"Area Locality_Lingarajapuram, Lingarajapuram, Hennur Main Road",2.0593098198165134e-08
+Area Locality_New Malakpet,2.0506495400014996e-08
+"Area Locality_Vinayakanagar, Hebbal",2.04337493161622e-08
+"Area Locality_Dum Dum Heights, Jessore Road",2.0304646538504897e-08
+Area Locality_Guindy,2.027450156650368e-08
+"Area Locality_Banashankari Stage 2, Banashankari",2.0048396415730592e-08
+Area Locality_Jnana Ganga Nagar,1.998109386503469e-08
+Area Locality_rajakillpakkam,1.98963093261459e-08
+Area Locality_Near coffee board layout,1.9777005090182573e-08
+Area Locality_ECIL,1.9668403353319333e-08
+"Area Locality_Shivananda Nagar, Vijayanagar",1.934353855737787e-08
+"Area Locality_State Bank Of India Colony, Hegganahalli",1.9117518071464826e-08
+Area Locality_Vinod Nagar West,1.8894496058964676e-08
+"Area Locality_Magnolia Prestige, Rajarhat",1.858143850390396e-08
+"Area Locality_Jayanti Nagar, Hormavu",1.8229115272008786e-08
+"Area Locality_Shyam Villa V, Dum Dum",1.806542649907329e-08
+Area Locality_Kumargali,1.80148268975387e-08
+Area Locality_Vip Road,1.7896471208394416e-08
+Area Locality_Mandawali,1.7517443007077645e-08
+Area Locality_Howrah,1.729621163356895e-08
+Area Locality_Saidabad,1.687947893712721e-08
+Area Locality_Namalagundu,1.670251663431362e-08
+"Area Locality_Suriyammapet, Saidapet",1.6605000788277017e-08
+Area Locality_Mahavir Enclave Part 3,1.6521913743530007e-08
+Area Locality_Anna Nagar-Pammal,1.6216765382312682e-08
+Area Locality_Jalahalli East,1.6171269559914728e-08
+"Area Locality_Kamakoti Nagar, Pallikaranai",1.591379839264951e-08
+Area Locality_venkatesa perumal nagar,1.589872261482995e-08
+"Area Locality_Chak Thakurani, Thakurpukur",1.5759381987279324e-08
+Area Locality_in 1-71/1/a,1.569968334849054e-08
+Area Locality_Bata Nagar,1.5565772143963436e-08
+Area Locality_Devanahalli,1.5472005867577946e-08
+Area Locality_Ayanavaram,1.5314873356164382e-08
+Area Locality_Bhattarahalli,1.5140491411395938e-08
+"Area Locality_Seetharampalya, Hoodi",1.5070210622500345e-08
+Area Locality_Kovilancheri,1.504055634839804e-08
+Area Locality_Purba Sinthi Area,1.4931402381778315e-08
+Area Locality_Alandur,1.472054817272588e-08
+Area Locality_poush,1.4610477584322499e-08
+"Area Locality_Kamakshiamman Nagar Layout, Iyyappanthangal",1.4229366425338004e-08
+Area Locality_Bisharpara,1.3957004706045028e-08
+Area Locality_Kadugodi,1.3906181130029158e-08
+"Area Locality_Paddy field street,Perambur",1.3720767717649134e-08
+"Area Locality_Mcechs Layout, Jakkuru",1.3575824343027931e-08
+"Area Locality_Khairatabad, NH 7",1.3316682507020648e-08
+Area Locality_Nagaram,1.3227612650471477e-08
+Area Locality_South Dum Dum,1.3222176707275751e-08
+"Area Locality_Chandulal bela colony, shahalibanda",1.3199858082246848e-08
+"Area Locality_Narayanapuram, Kovilambakkam",1.3193149894411048e-08
+"Area Locality_Fci Layout, Deepanjali Nagar",1.3060497551179237e-08
+"Area Locality_Vimalapuram, Manali",1.2447283449846795e-08
+Area Locality_Langar Houz,1.2396167083238243e-08
+"Area Locality_VIP Nagar, E M Bypass",1.2074715995434862e-08
+Area Locality_Ganga Vihar,1.1558643345367392e-08
+Area Locality_Anupuram Colony,1.1278030450281824e-08
+Area Locality_Purba Putiary,1.0664131249808207e-08
+"Area Locality_Manyata Residency, Thanisandra",1.0504314026322284e-08
+Area Locality_Gudimalkapur,1.0216745452486816e-08
+Area Locality_Main Ghitorni,9.427715473220705e-09
+Area Locality_Yelechenahalli,9.410534409940295e-09
+Area Locality_Baughati,9.15987699773169e-09
+"Area Locality_Bunder Garden, Perambur",9.143224060821581e-09
+Area Locality_Secretariat Hills,9.093204692877652e-09
+Area Locality_Sadasiva Nagar Madipakkam,9.003359202728953e-09
+Area Locality_Bapu Nagar-Langar Houz,8.74358148695027e-09
+"Area Locality_Raghubir Nagar, Tagore Garden Extension",8.738069685215292e-09
+Area Locality_Ramagondanahalli,8.66922465867159e-09
+"Area Locality_Subhash Nagar, Kengeri Satellite Town",8.54968746264391e-09
+"Area Locality_Devarachikannahalli, Begur Road",8.489783147228366e-09
+"Area Locality_Dash Drone, Rajarhat Newtown",8.445419190278482e-09
+"Area Locality_Hbr Layout Block 2, HBR Layout",8.436286069919482e-09
+Area Locality_Belgharia,8.334617958955485e-09
+Area Locality_Bonhooghly,8.334255044978067e-09
+Area Locality_BN Reddy Nagar,8.169099226783545e-09
+"Area Locality_Tirumudivakkam, Thiruvanmiyur",7.539873907895746e-09
+"Area Locality_Gangaram, Chandanagar, NH 9",7.299148272951905e-09
+"Area Locality_Baishnabghata Patuli, Patuli",7.093543641539952e-09
+Area Locality_Menambedu,7.021791984517225e-09
+Area Locality_Duraisamy Nagar,6.89502256812071e-09
+Area Locality_Near Jeyachandran textiles,6.596728982930893e-09
+Area Locality_Jagadgiri Gutta,6.182818255834743e-09
+"Area Locality_Mallepally, NH 7",6.1026215536161245e-09
+Area Locality_Barasat-Barrackpore Road,6.095105687440019e-09
+"Area Locality_Chelekare, Kalyan Nagar, Outer Ring Road",5.916156400661451e-09
+Area Locality_Doddabidarakallu,5.844841863983609e-09
+Area Locality_Hommadevanahalli,5.420902885962359e-09
+Area Locality_sanath nagar Ashok colony,5.202026662428035e-09
+Area Locality_Prashant Collony Extension,5.182896376312031e-09
+Area Locality_East Coast Road,5.10758912132862e-09
+"Area Locality_Janachaitanya colony, Hyderabad Expressway",5.0195929741454084e-09
+"Area Locality_Banashankari Stage 3, Banashankari",4.960842655863741e-09
+Area Locality_Nadeem Colony,4.785125868186584e-09
+Area Locality_Talaghattapura,4.772047546066579e-09
+Area Locality_Bow Bazar,4.742568907273097e-09
+Area Locality_Hosa Road Junction,4.715763249283805e-09
+"Area Locality_Fartabad, Garia",4.664922781794349e-09
+Area Locality_Kodungaiyur West,4.1789351027596215e-09
+"Area Locality_Pazhavanthangal, Jawaharlal Nehru Road",4.177690610375822e-09
+"Area Locality_Arunachalam Nagar, Madipakkam",4.1772830793592265e-09
+Area Locality_Ullal Upnagar,3.9986934093108176e-09
+Area Locality_Nimta,3.957581264434189e-09
+Area Locality_jadavpur central park east,3.850171965705807e-09
+Area Locality_Allwyn Colony,3.829183284436819e-09
+Area Locality_Redhills,3.801449462138722e-09
+Area Locality_Sangareddy District,3.6744697139745823e-09
+"Area Locality_Bharath Nagar, Porur",3.609681705848822e-09
+"Area Locality_Champapet, Koti",3.5854235529609212e-09
+Area Locality_Varadharajapuram,3.466464083914687e-09
+"Area Locality_Troop Bazaar, Koti",3.367650277972234e-09
+"Area Locality_Santhosapuram, Medavakkam",3.3380532299664315e-09
+Area Locality_Khurunjis zinnia Apartment Homes at Thambaram west,3.1649425605003056e-09
+Area Locality_Botanical Garden Area,3.077856507719319e-09
+"Area Locality_Sakthi Nagar, Adambakkam",3.022931313868368e-09
+"Area Locality_Subramaniya Swamy Nagar, Valasaravakkam, Arcot Road",3.0168755846908227e-09
+"Area Locality_Gouri Shankar Nagar Colony, Banjara Hills",3.001859368273044e-09
+"Area Locality_Meenakshi Layout, Kengeri",2.9485162279303813e-09
+Area Locality_Sadashiva Nagar,2.7083528008981247e-09
+"Area Locality_Konappana Agrahara, Electronic City",2.6041234981299893e-09
+Area Locality_Dakshineswar,2.5950354970697267e-09
+"Area Locality_Sivarampalli, Hyderabad Expressway",2.4439371671732105e-09
+"Area Locality_DNM Colony, Sanath Nagar",2.407588731817252e-09
+"Area Locality_Prakruthi Township, Hennur",2.338709299187573e-09
+Area Locality_Sahakara Nagar,2.2129775285121787e-09
+Area Locality_Kadam Tala,2.1671645735310778e-09
+Area Locality_Kanathur Reddikuppam,1.8225695791680803e-09
+"Area Locality_Jyothi Nagar, Dooravani Nagar",1.7931582777247734e-09
+"Area Locality_Gundlapochampally, Outer Ring Road",1.6530567696198693e-09
+"Area Locality_Ayyappa Nagar, Pallavaram",1.6061254317496624e-09
+Area Locality_Pratiraksha Nagar,1.5692595998297012e-09
+Area Locality_Nandanam,1.5625394295981559e-09
+Area Locality_Humayun Nagar,1.377983910244465e-09
+Area Locality_in Trimulgherry,1.3400105492074178e-09
+Point of Contact_Contact Builder,1.3211060364524107e-09
+Area Locality_Osman Nagar,1.2623707879083746e-09
+"Area Locality_Chikkasandra-Jalahalli West, Jalahalli West",1.2421680510408516e-09
+Area Locality_Kazhipattur,1.1267941382318169e-09
+"Area Locality_Mangammanapalya, Hosur Road",1.117825607768391e-09
+Area Locality_Haltu,1.0474928260723745e-09
+Area Locality_RTC Cross Road,8.25100941085925e-10
+"Area Locality_Noapara, Addarsha Pally",8.173677166190776e-10
+Area Locality_Ameenpur,7.651712073684064e-10
+"Area Locality_Bhel Layout, Rajarajeshwari Nagar",7.404793895711429e-10
+Area Locality_Anandapur,6.625215236369173e-10
+"Area Locality_Chikkana Layout, Kammanahalli",6.336361072854316e-10
+"Area Locality_Siriti, Tollygunge",5.646436317060799e-10
+Area Locality_Purba Barisha,5.400429295988522e-10
+Area Locality_New Town,5.127145427743779e-10
+"Area Locality_Immadihalli, Whitefield",5.016828033734966e-10
+Area Locality_IDA Uppal,4.928450584393144e-10
+Area Locality_GH Society,3.552231522293322e-10
+"Area Locality_Tilak Nagar, Jayanagar, bannerghatta main Road",2.691228697470995e-10
+Area Locality_Hastinapuram,2.656356848020393e-10
+Area Locality_Thiruverkkadu,2.0983428510137122e-10
+Area Locality_Oragadam Sriperumbudur,2.041243648421995e-10
+Area Locality_Aminpur,1.4946177817895747e-10
+Area Locality_Kodichikkanahalli Main Road,8.706753531621319e-11
+Area Locality_Garden City University,8.12741638967183e-11
+Area Locality_Hari Nagar Ashram,0.0
+"Area Locality_Lalaguda, Secunderabad",0.0
+Area Locality_Nagavara,0.0
+"Area Locality_Krishna Nagar-Chromepet, Chromepet",0.0
+"Area Locality_Kubera Nagar, Madipakkam",0.0
+Area Locality_Perungudi,0.0
+Area Locality_Mudichur,0.0
+Area Locality_Mudhaliar layout,0.0
+Area Locality_Poongavanapuram,0.0
+Area Locality_Bettadasanapura,0.0
+"Area Locality_Moulivakkam, Moulivakkam",0.0
+"Area Locality_Balaji Layout -Hongasandra, Hongasandra",0.0
+"Area Locality_Annapurna Apartment, Rajarhat Chowmatha",0.0
+"Area Locality_Erukkancheri, Kodungaiyur West",0.0
+Area Locality_Nandini Layout,0.0
+Area Locality_Vijay Enclave,0.0
+Area Locality_Parappana Agrahara,0.0
+Area Locality_Injambakkam,0.0
+Area Locality_Neelasandra,0.0
+"Area Locality_Bapu Nagar, Lakdikapul",0.0
+Area Locality_Visthar,0.0
+Area Locality_Seri Lingampally,0.0
+Area Locality_Thammenahalli Apartmentge,0.0
+"Area Locality_Jaya Puri Colony, Nagole",0.0
+Area Locality_Gh society,0.0
+Area Locality_Hongasandra,0.0
+Area Locality_Mavalli,0.0
+"Area Locality_Dunlop, Dakshineswar, Belgharia Expressway",0.0
+Area Locality_Doddanagamangala,0.0
+Area Locality_Kacharakanahalli,0.0
+Area Locality_Oliyas Green court,0.0
+"Area Locality_Jp Nagar Phase 2, J P Nagar",0.0
+Area Locality_Sivalingapuram,0.0
+Area Locality_Sir M V Nagar,0.0

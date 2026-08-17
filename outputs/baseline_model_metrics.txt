@@ -1,0 +1,28 @@
+Baseline_Model EVALUATION METRICS
+============================================================
+
+REGRESSION METRICS
+------------------------------
+MAE (Mean Absolute Error):                Rs.9,427.37
+RMSE (Root Mean Squared Error):           Rs.20,587.82
+R² Score:                                 0.7530
+MAPE (Mean Absolute Percentage Error):    34.06%
+Explained Variance Score:                 0.7533
+Max Error:                                Rs.190,549.28
+Median Absolute Error:                    Rs.3,756.67
+
+CLASSIFICATION METRICS (Binned Rent)
+------------------------------
+Accuracy (macro):                         0.9048
+Precision (macro):                        0.5245
+Precision (weighted):                     0.9254
+Recall (macro):                           0.5746
+Recall (weighted):                        0.9048
+F1-Score (macro):                         0.5444
+F1-Score (weighted):                      0.9135
+
+CROSS-VALIDATION SCORES
+------------------------------
+CV R² Scores: [0.64872504 0.66775076 0.75054726 0.68000337 0.74715863]
+Mean CV R²: 0.6988
+Std CV R²: 0.0421

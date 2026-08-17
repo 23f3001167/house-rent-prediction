@@ -1,0 +1,28 @@
+Tuned_Model EVALUATION METRICS
+============================================================
+
+REGRESSION METRICS
+------------------------------
+MAE (Mean Absolute Error):                Rs.8,647.34
+RMSE (Root Mean Squared Error):           Rs.20,213.95
+R² Score:                                 0.7619
+MAPE (Mean Absolute Percentage Error):    28.53%
+Explained Variance Score:                 0.7621
+Max Error:                                Rs.195,952.85
+Median Absolute Error:                    Rs.3,259.16
+
+CLASSIFICATION METRICS (Binned Rent)
+------------------------------
+Accuracy (macro):                         0.9155
+Precision (macro):                        0.5454
+Precision (weighted):                     0.9293
+Recall (macro):                           0.5631
+Recall (weighted):                        0.9155
+F1-Score (macro):                         0.5473
+F1-Score (weighted):                      0.9212
+
+CROSS-VALIDATION SCORES
+------------------------------
+CV R² Scores: [0.68066845 0.67105177 0.71112909 0.68657663 0.73641567]
+Mean CV R²: 0.6972
+Std CV R²: 0.0237

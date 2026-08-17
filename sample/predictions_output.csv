@@ -1,0 +1,101 @@
+BHK,Size,Floor,Area Type,Area Locality,City,Furnishing Status,Tenant Preferred,Bathroom,Point of Contact,Predicted_Rent,Prediction_Std,Lower_Bound,Upper_Bound
+2,850,Ground out of 2,Super Area,Andheri East,Mumbai,Semi-Furnished,Bachelors/Family,2,Contact Owner,38794.186507936516,12977.730465402787,13357.834795747054,64230.53822012598
+3,1500,1st out of 4,Carpet Area,Whitefield,Bangalore,Furnished,Bachelors/Family,3,Contact Agent,46949.144484126984,16693.430097592318,14230.021492846041,79668.26747540792
+1,550,Ground out of 1,Super Area,Kothrud,Pune,Unfurnished,Bachelors/Family,1,Contact Owner,7469.719641249423,1623.0106067816528,4288.618851957384,10650.820430541462
+2,1200,2nd out of 3,Carpet Area,T Nagar,Chennai,Furnished,Family,2,Contact Agent,27133.004761904762,6361.423341781386,14664.615012013246,39601.39451179628
+3,1800,Ground out of 2,Super Area,Dwarka,Delhi,Semi-Furnished,Bachelors/Family,2,Contact Owner,38756.750856782106,12030.874313560988,15176.23720220257,62337.264511361645
+1,450,Ground out of 1,Carpet Area,Banjara Hills,Hyderabad,Unfurnished,Bachelors/Family,1,Contact Agent,10517.693253968255,3432.099465998788,3790.77830061063,17244.60820732588
+2,750,1st out of 2,Super Area,Salt Lake,Kolkata,Semi-Furnished,Bachelors/Family,2,Contact Owner,10046.57998918387,2003.6681948583623,6119.390327261481,13973.76965110626
+2,800,Ground out of 3,Carpet Area,Vastrapur,Ahmedabad,Furnished,Bachelors/Family,1,Contact Owner,11963.698969215971,4104.7631741349805,3918.363147911409,20009.034790520534
+3,1300,2nd out of 4,Super Area,Koramangala,Bangalore,Furnished,Family,3,Contact Agent,35975.662492063486,10227.169186504472,15930.410886514721,56020.91409761225
+1,520,Ground out of 1,Carpet Area,Andheri West,Mumbai,Semi-Furnished,Bachelors/Family,1,Contact Owner,28799.03174603175,6921.101522269203,15233.67276238411,42364.39072967939
+2,900,1st out of 3,Super Area,Hinjewadi,Pune,Unfurnished,Bachelors/Family,2,Contact Owner,13149.653143727453,2190.7726961574895,8855.738659258775,17443.56762819613
+3,1400,Ground out of 2,Carpet Area,OMR,Chennai,Furnished,Bachelors/Family,2,Contact Agent,37204.44875396825,9461.403012950024,18660.098848586204,55748.7986593503
+2,1000,2nd out of 4,Super Area,Rajouri Garden,Delhi,Semi-Furnished,Family,2,Contact Owner,22442.25608286998,4860.490590408565,12915.69452566919,31968.817640070767
+1,480,Ground out of 1,Carpet Area,Gachibowli,Hyderabad,Unfurnished,Bachelors/Family,1,Contact Owner,7415.946518120396,1579.4565735475946,4320.21163396711,10511.681402273682
+2,780,1st out of 2,Super Area,Rajarhat,Kolkata,Furnished,Bachelors/Family,2,Contact Agent,19987.088043290045,5066.609204274089,10056.53400291283,29917.642083667262
+3,1600,Ground out of 3,Carpet Area,Whitefield,Bangalore,Furnished,Family,3,Contact Owner,23195.11342472342,8458.156780386473,6617.126135165934,39773.1007142809
+2,850,2nd out of 3,Super Area,Bandra West,Mumbai,Semi-Furnished,Bachelors/Family,2,Contact Agent,72589.36309523808,27695.59433282188,18305.998202907198,126872.72798756896
+1,600,Ground out of 1,Carpet Area,Kothrud,Pune,Unfurnished,Bachelors/Family,1,Contact Owner,7512.918139969451,1481.899106500052,4608.395891229349,10417.440388709552
+2,1100,1st out of 2,Super Area,Adyar,Chennai,Furnished,Bachelors/Family,2,Contact Owner,21929.81479477313,7457.078936591719,7313.940079053362,36545.6895104929
+3,1500,Ground out of 4,Carpet Area,Janakpuri,Delhi,Furnished,Family,2,Contact Agent,53519.6069126984,13979.188931518604,26120.39660692194,80918.81721847487
+2,950,2nd out of 3,Super Area,Hitech City,Hyderabad,Semi-Furnished,Bachelors/Family,2,Contact Owner,11497.016977086887,1544.5847945297999,8469.63077980848,14524.403174365294
+1,500,Ground out of 1,Carpet Area,New Town,Kolkata,Unfurnished,Bachelors/Family,1,Contact Owner,5604.451190476192,1029.7617890028837,3586.11808403054,7622.784296921844
+2,820,1st out of 2,Super Area,Satellite,Ahmedabad,Furnished,Bachelors/Family,2,Contact Agent,20302.58083777626,4752.50123061501,10987.678425770839,29617.48324978168
+3,1250,Ground out of 3,Carpet Area,HSR Layout,Bangalore,Furnished,Family,2,Contact Owner,25263.05555555555,7492.0012666192815,10578.73307298176,39947.37803812934
+2,780,2nd out of 4,Super Area,Thane,Mumbai,Semi-Furnished,Bachelors/Family,2,Contact Owner,41051.007936507944,12424.974642129147,16698.057637934817,65403.95823508107
+1,550,Ground out of 1,Carpet Area,Viman Nagar,Pune,Unfurnished,Bachelors/Family,1,Contact Agent,10229.205802987859,3366.261385458165,3631.3334874898555,16827.078118485864
+3,1350,1st out of 2,Super Area,Anna Nagar,Chennai,Furnished,Family,3,Contact Owner,23638.750000000004,9474.938214128306,5067.871100308523,42209.62889969148
+2,1050,Ground out of 3,Carpet Area,Saket,Delhi,Semi-Furnished,Bachelors/Family,2,Contact Owner,22981.140873015873,3739.413806447078,15651.889812379599,30310.391933652147
+2,720,2nd out of 3,Super Area,Kondapur,Hyderabad,Furnished,Bachelors/Family,2,Contact Agent,14950.389413088205,5209.710488968183,4739.356854710566,25161.421971465847
+1,480,Ground out of 1,Carpet Area,Howrah,Kolkata,Unfurnished,Bachelors/Family,1,Contact Owner,5567.635714285715,994.9881997186525,3617.458842837156,7517.812585734274
+3,1400,1st out of 4,Super Area,Baner,Pune,Furnished,Family,3,Contact Owner,24243.213380952377,10100.961692830935,4445.328463003745,44041.09829890101
+2,900,Ground out of 2,Carpet Area,Indiranagar,Bangalore,Furnished,Bachelors/Family,2,Contact Agent,16723.358946608943,6052.363241150152,4860.726993954646,28585.99089926324
+3,1200,2nd out of 3,Super Area,Juhu,Mumbai,Semi-Furnished,Family,2,Contact Owner,52555.80952380953,33749.51478330975,-13593.23945147758,118704.85849909663
+2,800,1st out of 2,Carpet Area,Madhapur,Hyderabad,Unfurnished,Bachelors/Family,2,Contact Owner,9953.86058888514,2682.8253641178408,4695.522875214172,15212.198302556108
+1,530,Ground out of 1,Super Area,Dadar,Mumbai,Furnished,Bachelors/Family,1,Contact Agent,54339.66720779221,19991.59239905611,15156.146105642241,93523.18830994218
+2,760,2nd out of 4,Carpet Area,Kharadi,Pune,Semi-Furnished,Bachelors/Family,2,Contact Owner,12930.75068588614,3786.6589092571885,5508.899223742051,20352.60214803023
+3,1280,Ground out of 3,Super Area,Porur,Chennai,Furnished,Family,3,Contact Agent,39873.30976984125,20530.356998195068,-366.1899466210816,80112.8094863036
+2,1080,1st out of 2,Carpet Area,Rohini,Delhi,Furnished,Bachelors/Family,2,Contact Owner,34044.31746031746,6702.790058862968,20906.848944946047,47181.78597568888
+1,500,Ground out of 1,Super Area,Jubilee Hills,Hyderabad,Unfurnished,Bachelors/Family,1,Contact Owner,7363.276824948797,1469.8398671150621,4482.390685403276,10244.162964494319
+2,850,2nd out of 3,Carpet Area,Alipore,Kolkata,Semi-Furnished,Bachelors/Family,2,Contact Agent,20947.4130988456,5807.49297990823,9564.726858225471,32330.099339465734
+3,1450,Ground out of 4,Super Area,MG Road,Bangalore,Furnished,Family,3,Contact Owner,23611.8682948533,10421.874406715036,3184.994457691828,44038.74213201477
+2,950,1st out of 2,Carpet Area,Powai,Mumbai,Furnished,Bachelors/Family,2,Contact Owner,64097.87554112553,26706.626597961647,11752.887409120704,116442.86367313037
+1,580,Ground out of 1,Super Area,Aundh,Pune,Semi-Furnished,Bachelors/Family,1,Contact Agent,10258.643037518035,3079.9781125598406,4221.885936900748,16295.400138135323
+3,1300,2nd out of 3,Carpet Area,Jayanagar,Bangalore,Furnished,Family,3,Contact Owner,23635.664682539682,6892.26811430918,10126.819178493688,37144.51018658568
+2,820,Ground out of 2,Super Area,Mylapore,Chennai,Unfurnished,Bachelors/Family,2,Contact Owner,12245.43423096834,3997.095066666413,4411.12790030217,20079.74056163451
+2,760,1st out of 2,Carpet Area,Navrangpura,Ahmedabad,Furnished,Bachelors/Family,2,Contact Agent,20787.720582972586,4917.509892458922,11149.4011937531,30426.039972192073
+3,1200,Ground out of 3,Super Area,Vasant Kunj,Delhi,Semi-Furnished,Family,2,Contact Owner,21931.250000000004,6654.826203978723,8887.790640201707,34974.709359798304
+2,980,2nd out of 4,Carpet Area,Whitefield,Bangalore,Furnished,Bachelors/Family,2,Contact Owner,19314.616400068804,5739.667626239562,8064.867852639263,30564.364947498347
+1,500,Ground out of 1,Super Area,Thane,Mumbai,Unfurnished,Bachelors/Family,1,Contact Agent,35831.041486291484,12262.6107492262,11796.324417808133,59865.75855477483
+3,1500,1st out of 2,Carpet Area,Manikonda,Hyderabad,Furnished,Family,3,Contact Owner,21143.325829502894,7359.423136731781,6718.856481508603,35567.79517749719
+2,850,Ground out of 3,Super Area,Kothrud,Pune,Semi-Furnished,Bachelors/Family,2,Contact Owner,15004.830679707493,2867.902943004308,9383.740911419049,20625.920447995937
+3,1350,2nd out of 4,Carpet Area,Adyar,Chennai,Furnished,Bachelors/Family,2,Contact Agent,36192.692920634916,8801.234891552114,18942.272533192772,53443.11330807706
+2,1100,Ground out of 2,Super Area,Greater Kailash,Delhi,Furnished,Family,2,Contact Owner,38020.72186147186,6339.479792313642,25595.34146853712,50446.10225440659
+1,520,1st out of 1,Carpet Area,Madhapur,Hyderabad,Unfurnished,Bachelors/Family,1,Contact Owner,8077.515995864877,2487.999788230676,3201.036410932752,12953.995580797004
+2,780,Ground out of 3,Super Area,New Town,Kolkata,Semi-Furnished,Bachelors/Family,2,Contact Agent,16787.870675324673,4673.334962438878,7628.134148944471,25947.607201704875
+3,1400,2nd out of 2,Carpet Area,Bodakdev,Ahmedabad,Furnished,Family,3,Contact Owner,23291.006912698405,10174.830887122367,3348.3383739385645,43233.67545145824
+2,920,1st out of 3,Super Area,Electronic City,Bangalore,Furnished,Bachelors/Family,2,Contact Owner,13756.682784012086,2271.810615734351,9303.933977172757,18209.431590851415
+3,1600,Ground out of 4,Carpet Area,Worli,Mumbai,Furnished,Family,3,Contact Agent,179010.51984126982,53670.58939218487,73816.16463258748,284204.8750499522
+1,580,2nd out of 2,Super Area,Viman Nagar,Pune,Semi-Furnished,Bachelors/Family,1,Contact Owner,7706.278401050158,1566.9431043747913,4635.069916475568,10777.486885624749
+2,880,Ground out of 1,Carpet Area,OMR,Chennai,Unfurnished,Bachelors/Family,2,Contact Owner,14854.75623493674,15183.276086726584,-14904.464895047364,44613.977364920844
+3,1450,1st out of 3,Super Area,Whitefield,Bangalore,Furnished,Bachelors/Family,3,Contact Agent,47033.86182539683,17854.20877953925,12039.6126174999,82028.11103329377
+2,980,2nd out of 4,Carpet Area,Saket,Delhi,Furnished,Family,2,Contact Owner,33022.70634920635,8210.619820278149,16929.89150146118,49115.52119695152
+1,550,Ground out of 1,Super Area,Marathahalli,Bangalore,Unfurnished,Bachelors/Family,1,Contact Owner,814654.8193722944,862623.9673000806,-876088.1565358635,2505397.7952804524
+3,1300,1st out of 2,Carpet Area,Juhu,Mumbai,Furnished,Family,3,Contact Agent,165211.71825396825,58075.60554366903,51383.531388376956,279039.90511955955
+2,850,Ground out of 3,Super Area,Garia,Kolkata,Semi-Furnished,Bachelors/Family,2,Contact Owner,13740.970823282258,4463.505220973956,4992.500590173304,22489.44105639121
+3,1200,2nd out of 4,Carpet Area,Baner,Pune,Furnished,Bachelors/Family,2,Contact Owner,18950.55101126472,8350.42962117639,2583.7089537589964,35317.39306877044
+2,920,Ground out of 2,Super Area,T Nagar,Chennai,Furnished,Family,2,Contact Agent,18703.554653679654,5699.981446925871,7531.591017704946,29875.518289654363
+3,1500,1st out of 3,Carpet Area,Dwarka,Delhi,Furnished,Bachelors/Family,3,Contact Owner,67801.65393650794,32201.91504078532,4685.900456568714,130917.40741644715
+1,500,Ground out of 1,Super Area,Gachibowli,Hyderabad,Unfurnished,Bachelors/Family,1,Contact Owner,7363.276824948797,1469.8398671150621,4482.390685403276,10244.162964494319
+2,780,2nd out of 2,Carpet Area,Rajarhat,Kolkata,Semi-Furnished,Bachelors/Family,2,Contact Agent,20029.27624170274,4094.493976809702,12004.068047155724,28054.484436249757
+3,1350,Ground out of 4,Super Area,Koramangala,Bangalore,Furnished,Family,3,Contact Owner,26474.821428571435,5862.121517826765,14985.063253630977,37964.57960351189
+2,880,1st out of 2,Carpet Area,Andheri East,Mumbai,Furnished,Bachelors/Family,2,Contact Owner,61448.64339826839,23267.753139835117,15843.847244191558,107053.43955234523
+3,1250,2nd out of 3,Super Area,Whitefield,Bangalore,Furnished,Family,2,Contact Agent,25818.96095238095,9277.084203113536,7635.875914278418,44002.04599048348
+2,950,Ground out of 2,Carpet Area,Vastrapur,Ahmedabad,Semi-Furnished,Bachelors/Family,2,Contact Owner,16726.573089158304,21958.525384146506,-26312.136663768844,59765.28284208545
+3,1400,1st out of 4,Super Area,Porur,Chennai,Furnished,Bachelors/Family,3,Contact Owner,28212.018759018756,13631.880974212898,1493.532049561476,54930.50546847604
+2,820,Ground out of 1,Carpet Area,Indiranagar,Bangalore,Unfurnished,Bachelors/Family,2,Contact Agent,15381.063582251076,5732.048523633604,4146.248475929211,26615.878688572942
+3,1300,2nd out of 3,Super Area,Vasant Kunj,Delhi,Furnished,Family,2,Contact Owner,29635.686147186152,10291.294524565856,9464.748879037077,49806.62341533523
+1,550,Ground out of 1,Carpet Area,Hitech City,Hyderabad,Semi-Furnished,Bachelors/Family,1,Contact Owner,7963.90870596122,2061.386539734533,3923.5910880815354,12004.226323840905
+2,780,1st out of 2,Super Area,Salt Lake,Kolkata,Furnished,Bachelors/Family,2,Contact Agent,19987.088043290045,5066.609204274089,10056.53400291283,29917.642083667262
+3,1450,Ground out of 4,Carpet Area,Bandra West,Mumbai,Furnished,Family,3,Contact Owner,103782.13095238093,61406.56394341863,-16574.734376719585,224138.99628148146
+2,920,2nd out of 3,Super Area,Kothrud,Pune,Furnished,Bachelors/Family,2,Contact Owner,13236.696491976634,2249.8975958543238,8826.897204102159,17646.49577985111
+3,1350,Ground out of 2,Carpet Area,Adyar,Chennai,Furnished,Family,3,Contact Agent,42935.11115079364,21893.909454438628,23.04862009392673,85847.17368149335
+2,1050,1st out of 4,Super Area,Janakpuri,Delhi,Semi-Furnished,Bachelors/Family,2,Contact Owner,23121.582217261897,4512.531226286698,14277.021013739968,31966.143420783825
+1,580,Ground out of 1,Carpet Area,Madhapur,Hyderabad,Unfurnished,Bachelors/Family,1,Contact Owner,7828.613811821846,1681.4054677897914,4533.059094953855,11124.168528689837
+3,1500,2nd out of 3,Super Area,Whitefield,Bangalore,Furnished,Bachelors/Family,3,Contact Agent,42299.62307936508,17360.63470306785,8272.779061352092,76326.46709737807
+2,880,Ground out of 2,Carpet Area,Juhu,Mumbai,Furnished,Family,2,Contact Owner,62524.441017316014,25611.07823175917,12326.727683068042,112722.15435156398
+3,1250,1st out of 2,Super Area,Viman Nagar,Pune,Furnished,Bachelors/Family,2,Contact Owner,20954.1484887872,7601.394947937917,6055.4143908288825,35852.882586745516
+2,920,Ground out of 3,Carpet Area,Anna Nagar,Chennai,Semi-Furnished,Bachelors/Family,2,Contact Agent,19106.863095238095,5381.219587870185,8559.672703012533,29654.053487463658
+3,1400,2nd out of 4,Super Area,Greater Kailash,Delhi,Furnished,Family,3,Contact Owner,39392.88071861472,23600.572239534416,-6864.240870872738,85650.00230810218
+2,820,Ground out of 1,Carpet Area,Manikonda,Hyderabad,Furnished,Bachelors/Family,2,Contact Owner,12264.619606315257,4026.6835415998266,4372.319864779596,20156.91934785092
+3,1350,1st out of 3,Super Area,Koramangala,Bangalore,Furnished,Bachelors/Family,3,Contact Agent,42939.41108730159,21442.444775135322,912.2193280363572,84966.60284656682
+2,950,Ground out of 2,Carpet Area,Thane,Mumbai,Semi-Furnished,Family,2,Contact Owner,55242.15079365079,24061.629114485284,8081.357729259638,102402.94385804195
+3,1450,2nd out of 4,Super Area,Baner,Pune,Furnished,Bachelors/Family,3,Contact Owner,25579.467908457755,12343.969110488542,1385.288451900211,49773.6473650153
+2,880,Ground out of 1,Carpet Area,OMR,Chennai,Unfurnished,Bachelors/Family,2,Contact Agent,17136.1325036075,5459.880014446386,6434.767675292584,27837.497331922415
+3,1500,1st out of 2,Super Area,Vasant Vihar,Delhi,Furnished,Family,3,Contact Owner,67193.94893650794,32670.092665487944,3160.5673121515647,131227.3305608643
+2,980,Ground out of 3,Carpet Area,Whitefield,Bangalore,Furnished,Bachelors/Family,2,Contact Owner,17007.531083860384,5592.450453583454,6046.328194836815,27968.73397288395
+3,1400,2nd out of 3,Super Area,Worli,Mumbai,Furnished,Family,3,Contact Agent,153391.24206349204,59774.02689743427,36234.149344520876,270548.3347824632
+2,920,Ground out of 2,Carpet Area,Kharadi,Pune,Semi-Furnished,Bachelors/Family,2,Contact Owner,15443.698358297062,9358.936362096129,-2899.81691141135,33787.21362800548
+3,1350,1st out of 4,Super Area,Mylapore,Chennai,Furnished,Family,2,Contact Owner,21479.09643134643,7613.727662546992,6556.1902127543235,36402.002649938535
+2,1050,Ground out of 1,Carpet Area,Rajouri Garden,Delhi,Furnished,Bachelors/Family,2,Contact Agent,20618.808621933622,8512.069702683853,3935.1520046732694,37302.465239193974
