@@ -14,9 +14,8 @@ This project predicts house rent prices using machine learning, specifically a R
 - [Testing](#testing)
 - [Project Structure](#project-structure)
 - [Technical Choices](#technical-choices)
-- [Future Improvements](#future-improvements)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ---
 
